@@ -3,9 +3,11 @@ layout: post
 title: "Claude vs Claude Cowork vs Claude Code: What's the Difference?"
 author: nessa
 categories: [Claude Code, AI Tools, Antigravity]
-image: assets/images/claude-vs-claude-cowork-vs-claude-code-header.jpg
+image: assets/images/claude-vs-claude-cowork-vs-claude-code-header.png
 featured: true
 ---
+
+{% include youtube-short.html id="g35kCFC0g6w" %}
 
 Most people discover Claude through the chat interface and think that's all there is. It's not. There are three distinct ways to use Claude — and each one unlocks a completely different level of power. Here's exactly what each one does and which one you need.
 
