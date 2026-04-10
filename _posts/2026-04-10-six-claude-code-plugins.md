@@ -11,13 +11,7 @@ Most Claude Code users are running it vanilla — no plugins, no extensions, no 
 
 Here are 6 Claude Code plugins worth installing today, from official Anthropic plugins to community-built tools that add memory, design opinions, and team-level code review.
 
-<div style="display:flex;justify-content:center;margin:2rem 0;">
-  <div style="position:relative;width:340px;max-width:100%;aspect-ratio:9/16;overflow:hidden;border-radius:12px;">
-    <video controls style="position:absolute;top:0;left:0;width:100%;height:100%;">
-      <source src="/assets/videos/SixPluginsClaudeCodeVideo.mp4" type="video/mp4">
-    </video>
-  </div>
-</div>
+{% include youtube-short.html id="c26uwJOZggg" %}
 
 ---
 
