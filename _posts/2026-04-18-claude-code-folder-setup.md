@@ -144,4 +144,4 @@ Getting your Claude Code folder setup right is a 20-minute investment that pays 
 
 This is the foundation of every agentic workflow we build inside [Vibe Coding Mastery](https://digicuratoragency.com/vibe-coding-mastery) — and it's free to set up today.
 
-Want the full project template? Check out the [Vibe Coding skill library](https://digicuratoragency.com/skills) for ready-to-use setups you can drop straight into your projects.
+Grab the free **Claude Code Folder Setup Guide** — a one-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes. [Download it here →](/assets/downloads/claude-code-folder-setup-freebie.pdf)
