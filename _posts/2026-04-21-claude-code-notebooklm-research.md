@@ -70,7 +70,7 @@ Copy the skill files into your Claude Code skills directory, or use Claude Code'
 
 Open a Claude Code session and prompt it with your research topic. Claude picks up the skill automatically and handles the rest.
 
-> For the full step-by-step setup guide, including NotebookLM API configuration and skill registration — download the free guide below.
+> For the full step-by-step setup guide, including NotebookLM API configuration and skill registration — [grab the free guide at the top of this page](https://guides.digicuratoragency.com/guides/claude-notebooklm-research).
 
 ---
 
