@@ -11,6 +11,16 @@ Most people fire up Claude Code and just start typing. No structure, no CLAUDE.m
 
 Here's exactly how to structure your Claude Code project folder so your AI agent works *with* you, not against you.
 
+---
+
+## Get the Free Setup Guide
+
+A 3-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes.
+
+**[Get the free Claude Code Folder Setup Guide →](https://guides.digicuratoragency.com/guides/claude-code-folder-setup)**
+
+---
+
 {% include youtube-short.html id="EnrNISY97Kw" %}
 
 ---
@@ -144,4 +154,4 @@ Getting your Claude Code folder setup right is a 20-minute investment that pays 
 
 This is the foundation of every agentic workflow we build inside [Vibe Coding Mastery](https://digicuratoragency.com/vibe-coding-mastery) — and it's free to set up today.
 
-Grab the free **Claude Code Folder Setup Guide** — a 3-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes. [Download it here →](/assets/downloads/claude-code-folder-setup-freebie.pdf)
+Grab the free **[Claude Code Folder Setup Guide](https://guides.digicuratoragency.com/guides/claude-code-folder-setup)** — a 3-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes.
