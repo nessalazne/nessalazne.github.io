@@ -11,6 +11,16 @@ Most people using Claude Code are running it completely naked — no context, no
 
 Here's the setup that turns Claude Code from a smart autocomplete into a full AI co-worker.
 
+---
+
+## Get the Free Cheat Sheet
+
+A one-page PDF covering the full 4-file structure with examples for each file — designed to reference while you build it out.
+
+**[Get the free Claude Code 4-File System Cheat Sheet →](https://guides.digicuratoragency.com/guides/claude-code-setup-4-file-system)**
+
+---
+
 {% include youtube-short.html id="QB72q1rbBnw" %}
 
 ---
@@ -97,14 +107,6 @@ The 4 files work together as a system:
 Set this up once across your projects and Claude Code will start feeling like a real co-worker — not a stateless chatbot you have to re-explain yourself to every session.
 
 ---
-
-## Get the Free Cheat Sheet
-
-Want a one-page PDF version of this setup to reference while you build it out?
-
-[**Download the Free Claude Code Setup Cheat Sheet →**](/assets/pdfs/antigravity-claude-code-freebie.pdf)
-
-It covers the full 4-file structure with examples for each file — designed to be read on your phone while setting things up.
 
 ---
 
