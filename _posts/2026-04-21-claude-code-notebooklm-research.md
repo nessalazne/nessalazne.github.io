@@ -11,6 +11,16 @@ Most people use NotebookLM by manually dumping links and documents into it. That
 
 With one GitHub skill install, Claude Code connects directly to Google's NotebookLM and turns any research topic into a deep-research podcast automatically. No copy-paste. No tab-switching. Just results.
 
+---
+
+## Get the Free Setup Guide
+
+I put together a free PDF that walks through the full installation, NotebookLM connection setup, and a few example prompts to get the best results out of this skill.
+
+**[Get the free Claude + NotebookLM Research Guide →](https://guides.digicuratoragency.com/guides/claude-notebooklm-research)**
+
+---
+
 {% include youtube-short.html id="fzyJhmK7BE4" %}
 
 ---
@@ -74,16 +84,6 @@ This workflow is best for:
 - **Anyone already using Claude Code** who wants to get more value from tools they already have
 
 If you spend more than 30 minutes a week gathering research, this workflow will pay for itself immediately.
-
----
-
-## Get the Free Setup Guide
-
-I put together a free PDF that walks through the full installation, NotebookLM connection setup, and a few example prompts to get the best results out of this skill.
-
-**[Download the free Claude + NotebookLM Research Guide →](/assets/pdfs/claude-notebooklm-research-freebie.pdf)**
-
-It's free — no email required.
 
 ---
 
