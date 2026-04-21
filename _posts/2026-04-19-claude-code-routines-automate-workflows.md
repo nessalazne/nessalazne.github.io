@@ -11,6 +11,16 @@ Most people use Claude Code for one-off tasks — ask a question, get an answer,
 
 If you've ever wanted to automate bug triage, code reviews, or deploy verification without writing a custom script — this is how you do it.
 
+---
+
+## Get the Free Cheat Sheet
+
+A 2-page PDF covering all 3 trigger types, the 5-element prompt formula, and the top workflows to build first.
+
+**[Get the free Claude Code Routines Cheat Sheet →](https://guides.digicuratoragency.com/guides/claude-code-routines)**
+
+---
+
 {% include youtube-short.html id="tjGxhwjYaXk" %}
 
 ---
@@ -105,8 +115,6 @@ Trigger: API, called by your CD pipeline after each deploy. Runs smoke checks ag
 
 Claude Code Routines are the difference between using Claude reactively and building a system that works while you sleep. Pick one workflow, write the prompt, set the trigger, and check the output tomorrow morning.
 
-Grab the free **Claude Code Routines Cheat Sheet** — a 2-page PDF covering all 3 trigger types, the 5-element prompt formula, and the top workflows to build first.
-
-[Download the free guide →](/assets/pdfs/claude-routines-freebie.pdf)
+Grab the free **[Claude Code Routines Cheat Sheet](https://guides.digicuratoragency.com/guides/claude-code-routines)** — a 2-page PDF covering all 3 trigger types, the 5-element prompt formula, and the top workflows to build first.
 
 Want more Claude automation systems like this? Join [AI Social Hub](https://digicuratoragency.com/aisocialhub_freeplan) — free access to templates, workflows, and the full Claude Code toolkit.
