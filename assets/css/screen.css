@@ -487,7 +487,7 @@ blockquote {
 
 .featured-strip-thumb {
     position: relative;
-    height: 160px;
+    aspect-ratio: 16 / 9;
     overflow: hidden;
 }
 
@@ -543,11 +543,6 @@ blockquote {
     object-fit: cover;
 }
 
-@media (max-width: 767px) {
-    .featured-strip-thumb {
-        height: 200px;
-    }
-}
 
 @media (max-width:1024px) {
     .post-top-meta .col-md-10 {
