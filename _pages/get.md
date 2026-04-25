@@ -137,6 +137,23 @@ permalink: /get/
   background: #008f59;
   color: #fff !important;
 }
+.keyword-card-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+}
+.keyword-card-post-link {
+  font-size: 0.82rem;
+  color: #00ab6b !important;
+  text-decoration: none !important;
+  text-align: right;
+  white-space: nowrap;
+}
+.keyword-card-post-link:hover {
+  text-decoration: underline !important;
+  color: #008f59 !important;
+}
 
 /* Not found */
 .keyword-not-found {
@@ -161,35 +178,40 @@ var GUIDES = {
     {
       title: "Claude Design → Video Cheat Sheet",
       desc: "Turn Claude-generated designs into polished short-form video with the Hyperframes workflow.",
-      url: "https://guides.digicuratoragency.com/guides/claude-design-hyperframes"
+      url: "https://guides.digicuratoragency.com/guides/claude-design-hyperframes",
+      post: "https://blog.digicuratoragency.com/claude-design-to-video-hyperframes/"
     }
   ],
   "research": [
     {
       title: "Claude + NotebookLM Research Guide",
       desc: "A step-by-step setup guide for pairing Claude Code with NotebookLM for deep research workflows.",
-      url: "https://guides.digicuratoragency.com/guides/claude-notebooklm-research"
+      url: "https://guides.digicuratoragency.com/guides/claude-notebooklm-research",
+      post: "https://blog.digicuratoragency.com/claude-code-notebooklm-research/"
     }
   ],
   "routine": [
     {
       title: "Claude Code Routines Cheat Sheet",
       desc: "2-page PDF covering all 3 trigger types, the 5-element prompt formula, and the top workflows to build first.",
-      url: "https://guides.digicuratoragency.com/guides/claude-code-routines"
+      url: "https://guides.digicuratoragency.com/guides/claude-code-routines",
+      post: "https://blog.digicuratoragency.com/claude-code-routines-automate-workflows/"
     }
   ],
   "blueprint": [
     {
       title: "Claude Code Folder Setup Guide",
       desc: "3-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes.",
-      url: "https://guides.digicuratoragency.com/guides/claude-code-folder-setup"
+      url: "https://guides.digicuratoragency.com/guides/claude-code-folder-setup",
+      post: "https://blog.digicuratoragency.com/claude-code-folder-setup/"
     }
   ],
   "activate": [
     {
       title: "Claude Code 4-File System Cheat Sheet",
       desc: "The exact 4 files that activate Claude's full context — a quick-reference guide for your Claude Code setup.",
-      url: "https://guides.digicuratoragency.com/guides/claude-code-setup-4-file-system"
+      url: "https://guides.digicuratoragency.com/guides/claude-code-setup-4-file-system",
+      post: "https://blog.digicuratoragency.com/claude-code-setup-4-file-system/"
     }
   ]
 };
@@ -221,13 +243,19 @@ function lookupKeyword(e) {
     : '<p class="keyword-results-label">Here\'s your free guide for <strong>' + raw.toUpperCase() + '</strong></p>';
 
   var cards = matches.map(function(g) {
+    var postLink = g.post
+      ? '<a href="' + g.post + '" class="keyword-card-post-link">Read the blog post →</a>'
+      : '';
     return (
       '<div class="keyword-card">' +
         '<div class="keyword-card-info">' +
           '<div class="keyword-card-title">' + g.title + '</div>' +
           '<p class="keyword-card-desc">' + g.desc + '</p>' +
         '</div>' +
-        '<a href="' + g.url + '" target="_blank" rel="noopener" class="keyword-card-btn">Get the Free Guide →</a>' +
+        '<div class="keyword-card-actions">' +
+          '<a href="' + g.url + '" target="_blank" rel="noopener" class="keyword-card-btn">Get the Free Guide →</a>' +
+          postLink +
+        '</div>' +
       '</div>'
     );
   }).join('');
