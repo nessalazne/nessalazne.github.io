@@ -71,7 +71,13 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
-
+                {% if page.url == "/get/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/get/" style="color:#00ab6b;font-weight:700;">🎁 Free Guides</a>
+                </li>
 
                 {% include search-lunr.html %}
 
