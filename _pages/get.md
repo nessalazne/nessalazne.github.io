@@ -59,7 +59,7 @@ permalink: /get/
   max-width: 320px;
   padding: 0.6rem 1rem;
   font-size: 1.1rem;
-  border: 2px solid #00ab6b;
+  border: 2px solid #1a5d1a;
   border-radius: 6px;
   outline: none;
   letter-spacing: 0.04em;
@@ -67,12 +67,12 @@ permalink: /get/
   color: #222;
 }
 .keyword-input:focus {
-  border-color: #008f59;
-  box-shadow: 0 0 0 3px rgba(0,171,107,0.15);
+  border-color: #123d12;
+  box-shadow: 0 0 0 3px rgba(26,93,26,0.15);
 }
 .keyword-btn {
   padding: 0.6rem 1.4rem;
-  background: #00ab6b;
+  background: #1a5d1a;
   color: #fff;
   border: none;
   border-radius: 6px;
@@ -83,7 +83,7 @@ permalink: /get/
   white-space: nowrap;
 }
 .keyword-btn:hover {
-  background: #008f59;
+  background: #123d12;
 }
 
 /* Result cards */
@@ -100,7 +100,7 @@ permalink: /get/
   gap: 1rem;
   padding: 1.1rem 1.25rem;
   border: 1px solid #d4f0e5;
-  border-left: 4px solid #00ab6b;
+  border-left: 4px solid #1a5d1a;
   border-radius: 8px;
   margin-bottom: 0.75rem;
   background: #fff;
@@ -124,7 +124,7 @@ permalink: /get/
 .keyword-card-btn {
   display: inline-block;
   padding: 0.5rem 1.1rem;
-  background: #00ab6b;
+  background: #1a5d1a;
   color: #fff !important;
   border-radius: 6px;
   font-size: 0.9rem;
@@ -134,7 +134,7 @@ permalink: /get/
   transition: background 0.2s;
 }
 .keyword-card-btn:hover {
-  background: #008f59;
+  background: #123d12;
   color: #fff !important;
 }
 .keyword-card-actions {
@@ -145,14 +145,14 @@ permalink: /get/
 }
 .keyword-card-post-link {
   font-size: 0.82rem;
-  color: #00ab6b !important;
+  color: #1a5d1a !important;
   text-decoration: none !important;
   text-align: right;
   white-space: nowrap;
 }
 .keyword-card-post-link:hover {
   text-decoration: underline !important;
-  color: #008f59 !important;
+  color: #123d12 !important;
 }
 
 /* Not found */
