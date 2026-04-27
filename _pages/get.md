@@ -213,6 +213,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/claude-code-setup-4-file-system",
       post: "https://blog.digicuratoragency.com/claude-code-setup-4-file-system/"
     }
+  ],
+  "claude": [
+    {
+      title: "Claude 101: Beginner's Cheat Sheet",
+      desc: "A quick-reference PDF with the 3-part prompt formula, 5 essential Claude commands, and the top 3 workflows to set up first.",
+      url: "https://guides.digicuratoragency.com/guides/claude-101-beginners-guide",
+      post: "https://blog.digicuratoragency.com/claude-101-beginners-guide/"
+    }
   ]
 };
 
