@@ -94,4 +94,4 @@ Claude 101 is really just the beginning. Once you have the fundamentals down, th
 
 The creators and entrepreneurs winning with AI right now aren't using it to write captions — they're using it to run systems. That shift starts here.
 
-Subscribe to [Vibe Coding Mastery](https://www.youtube.com/@vibecoding) for weekly tutorials on building real AI systems with Claude Code and Antigravity.
+If you want to take it further and actually **build your own AI-powered app — without writing a single line of code** — that's exactly what [Vibe Coding Mastery](https://www.youtube.com/@vibecoding) is for. It's a course designed to teach creators and entrepreneurs how to go from idea to working AI app using Claude, step by step. No coding background needed. No developer experience required. Just a clear system, the right tools, and Claude doing the heavy lifting. Check it out and see if it's the right next step for you.
