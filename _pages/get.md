@@ -221,6 +221,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/claude-101-beginners-guide",
       post: "https://blog.digicuratoragency.com/claude-101-beginners-guide/"
     }
+  ],
+  "extension": [
+    {
+      title: "Chrome Extension Content Automation Setup Guide",
+      desc: "Step-by-step PDF showing how to install the extension, connect your accounts, and automate posting to every platform in under 20 minutes.",
+      url: "https://guides.digicuratoragency.com/guides/chrome-extension-content-automation",
+      post: "https://blog.digicuratoragency.com/chrome-extension-content-automation/"
+    }
   ]
 };
 
