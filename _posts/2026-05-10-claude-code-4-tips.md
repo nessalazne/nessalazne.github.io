@@ -11,7 +11,7 @@ You've opened Claude Code. You've run a few prompts. And now you're wondering â€
 
 Yes. A lot more. In this post I'm breaking down 4 Claude Code tips that shift it from a smart chatbot into a proper agentic coding system â€” the kind that handles multi-step tasks, remembers your project rules, and runs workflows on autopilot.
 
-{% include youtube.html id="65grPFNzwQg" %}
+{% include youtube-short.html id="65grPFNzwQg" %}
 
 ---
 
