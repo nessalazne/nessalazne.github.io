@@ -229,6 +229,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/chrome-extension-content-automation",
       post: "https://blog.digicuratoragency.com/chrome-extension-content-automation/"
     }
+  ],
+  "build": [
+    {
+      title: "Claude Code 4 Tips Cheat Sheet",
+      desc: "A 1-page quick-reference guide covering the 4 Claude Code tips that shift it from a chatbot into a full agentic workflow system — CLAUDE.md, Skills, Sub-agents, and Hooks.",
+      url: "https://guides.digicuratoragency.com/guides/claude-code-4-tips",
+      post: "https://blog.digicuratoragency.com/claude-code-4-tips/"
+    }
   ]
 };
 
