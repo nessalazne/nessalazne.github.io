@@ -237,6 +237,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/claude-code-4-tips",
       post: "https://blog.digicuratoragency.com/claude-code-4-tips/"
     }
+  ],
+  "remotion": [
+    {
+      title: "Remotion + Claude Code Setup Guide",
+      desc: "A 5-phase setup guide for building animated videos with Remotion inside Claude Code and Antigravity IDE — no video editor needed.",
+      url: "https://guides.digicuratoragency.com/guides/remotion-claude-code-video-creator",
+      post: "https://blog.digicuratoragency.com/remotion-claude-code-video-creator/"
+    }
   ]
 };
 
