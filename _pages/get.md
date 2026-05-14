@@ -245,6 +245,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/remotion-claude-code-video-creator",
       post: "https://blog.digicuratoragency.com/remotion-claude-code-video-creator/"
     }
+  ],
+  "clone": [
+    {
+      title: "Clone Any $800K App in 15 Minutes",
+      desc: "A 4-phase cheat sheet for cloning any SaaS app using Claude Code — no dev team, no coding background, and no $800K budget required.",
+      url: "https://guides.digicuratoragency.com/guides/clone-800k-app-claude-code",
+      post: "https://blog.digicuratoragency.com/clone-800k-app-claude-code/"
+    }
   ]
 };
 
