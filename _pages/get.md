@@ -236,6 +236,12 @@ var GUIDES = {
       desc: "A 1-page quick-reference guide covering the 4 Claude Code tips that shift it from a chatbot into a full agentic workflow system — CLAUDE.md, Skills, Sub-agents, and Hooks.",
       url: "https://guides.digicuratoragency.com/guides/claude-code-4-tips",
       post: "https://blog.digicuratoragency.com/claude-code-4-tips/"
+    },
+    {
+      title: "Remotion + Claude Code Setup Guide",
+      desc: "A 5-phase setup guide for building animated videos with Remotion inside Claude Code and Antigravity IDE — no video editor needed.",
+      url: "https://guides.digicuratoragency.com/guides/remotion-claude-code-video-creator",
+      post: "https://blog.digicuratoragency.com/claude-code-build-4-tips/"
     }
   ],
   "remotion": [
