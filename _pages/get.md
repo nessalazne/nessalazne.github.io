@@ -238,10 +238,10 @@ var GUIDES = {
       post: "https://blog.digicuratoragency.com/claude-code-4-tips/"
     },
     {
-      title: "Remotion + Claude Code Setup Guide",
-      desc: "A 5-phase setup guide for building animated videos with Remotion inside Claude Code and Antigravity IDE — no video editor needed.",
-      url: "https://guides.digicuratoragency.com/guides/remotion-claude-code-video-creator",
-      post: "https://blog.digicuratoragency.com/claude-code-build-4-tips/"
+      title: "Build a $1M App With Claude Code — Prompt Guide",
+      desc: "Two power prompts for reverse-engineering any top App Store app from screenshots and building your own version with Claude Code — no dev team needed.",
+      url: "https://guides.digicuratoragency.com/guides/build-1m-app-claude-code",
+      post: "https://blog.digicuratoragency.com/build-1m-app-claude-code/"
     }
   ],
   "remotion": [
