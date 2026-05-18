@@ -259,6 +259,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/clone-800k-app-claude-code",
       post: "https://blog.digicuratoragency.com/clone-800k-app-claude-code/"
     }
+  ],
+  "codes": [
+    {
+      title: "5 Must-Have Claude Code Skills for Creators",
+      desc: "The 5 open-source Claude Code skills and AI tools that automate your content workflow — with direct links to install each one today.",
+      url: "https://guides.digicuratoragency.com/guides/5-skills-for-creators-claude-code",
+      post: "https://blog.digicuratoragency.com/5-skills-for-creators-claude-code/"
+    }
   ]
 };
 
