@@ -1,107 +1,121 @@
 ---
 layout: post
-title: "How to Create AI Carousel Videos with Claude Code, Higgsfield & Kie.ai (+ Clone Any $1M App)"
+title: "How to Create AI Carousel Videos with Claude Code (Higgsfield or Kie.ai)"
 author: nessa
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/claude-code-carousel-video-higgsfield-kieai-header.jpg
 featured: false
 ---
 
-You've seen the AI-generated carousel videos blowing up on Instagram and TikTok — cinematic B-roll, smooth motion, polished talking-head intros. Most creators assume that takes a production team. It doesn't. With Claude Code connected to Higgsfield MCP or Kie.ai, you can generate broadcast-quality video clips in seconds — directly from your terminal, no switching apps.
+The cinematic carousel videos taking over Instagram and TikTok right now are not coming from production studios. Creators are generating them directly inside Claude Code using Higgsfield MCP or Kie.ai — 30+ AI video models, accessible with a single line of text, no app-switching required. This post shows you the exact setup and the prompts that work.
 
-And if you've ever looked at a $1M App Store app and thought "I could never build that" — this post covers the exact Claude Code prompts to reverse-engineer and scaffold one from screenshots.
+And if you've been watching $1M App Store apps and thinking "I could never build that" — stay to the end. Claude Code can reverse-engineer one from screenshots in minutes.
 
-{% include youtube.html id="k0_DwTsTCBM" %}
+<div style="max-width: 315px; margin: 2rem auto;">
+  <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; border-radius: 10px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/k0_DwTsTCBM"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+  </div>
+</div>
 
 ---
 
 ## Get the Free Guide
 
-The full step-by-step prompt cheat sheet — Higgsfield MCP setup, Kie.ai workflow, and the two power prompts for cloning any App Store app.
+The full prompt cheat sheet — Higgsfield MCP install, Kie.ai integration, and power prompts for carousel videos and app building.
 
-**[Get the free Carousel Video Creator + App Builder Prompt Guide →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
+**[Get the free Carousel Video Creator Prompt Guide →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
 
 ---
 
-## What Is Higgsfield MCP and Why It Changes Everything
+## Higgsfield MCP — AI Video Directly Inside Claude Code
 
-Higgsfield is an AI video generation platform — think cinematic AI clips, image-to-video, and motion effects. On its own it's impressive. But connected to Claude Code via MCP (Model Context Protocol), it becomes a tool you control with a single line of text from inside your workflow.
+Higgsfield launched its official MCP server in April 2026, giving Claude Code access to 30+ image and video generation models in a single hosted endpoint — Veo, Kling, Minimax Hailuo, Flux, and more. No API keys to manage. No dashboard to open. You describe what you need, Claude calls Higgsfield, and the clip lands in your project folder.
 
-No dashboard. No tab-switching. No copy-paste. You describe what you want, Claude calls Higgsfield, and the video lands in your output folder.
+**Install it in one terminal command:**
 
-To set it up:
-1. Open Claude Code settings (or Anthropic Console)
-2. Add the Higgsfield MCP server: `higgsfield.ai/mcp`
-3. Restart Claude Code — the Higgsfield tools appear automatically in your available toolset
+```
+claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp
+```
 
-Once connected, try this prompt to generate a carousel intro clip:
+Authenticate through your Higgsfield account when prompted. The free tier includes 150 credits per month.
 
-> *"Use Higgsfield to generate a cinematic talking-head carousel intro: dark studio background, purple rim lighting, camera slowly pushing in, duration 5 seconds."*
+Once it's connected, use prompts like these inside a Claude Code session:
 
-For B-roll:
+**Talking-head carousel intro:**
+> *"Use Higgsfield to generate a cinematic carousel intro: dark studio background, purple rim lighting, slow push-in on subject, 5 seconds."*
 
-> *"Create a B-roll clip: aerial cityscape at night, neon reflections on wet pavement, slow pan, 6 seconds."*
+**B-roll clip:**
+> *"Use Higgsfield — aerial cityscape at night, neon reflections on wet pavement, slow cinematic pan, 6 seconds."*
 
-You can chain these into full carousel sequences inside one Claude Code session.
+**Seamless loop for background:**
+> *"Use Higgsfield to animate this image into a cinemagraph: subtle fog drift, seamless loop, 4 seconds."*
 
-## Kie.ai — The Cheaper Alternative That Still Delivers
+You can chain multiple calls inside one Claude Code session to build out a full carousel sequence without leaving the terminal.
 
-If Higgsfield's pricing doesn't fit your volume, Kie.ai (available at redpandaai.co) is the go-to alternative for creators who need consistent output without blowing the budget. Same quality AI video generation, lower cost per clip.
+## Kie.ai — The Lower-Cost Option for Higher Volume
 
-The integration with Claude Code is lightweight:
+If you need more generations per month without scaling your spend, [Kie.ai](https://kie.ai) is the go-to alternative. It offers APIs for video generation (Veo, Runway, Flux) at a lower cost per clip — same quality AI output, better economics for volume-based workflows.
 
-1. Grab your API key from the Kie.ai dashboard
-2. Add `KIE_API_KEY` to your `.env` file
-3. In Claude Code, use the built-in upload tool: `upload_file(Path("video.mp4"))` — it returns a public URL instantly
+**Setup:**
 
-From there, that URL works anywhere in your content workflow: Blotato scheduling, social repurposing, wherever you post.
+1. Get your API key from the Kie.ai dashboard
+2. Add it to your `.env` file as `KIE_API_KEY`
+3. Install the MCP server: `npx @felores/kie-ai-mcp-server` or add it via Claude Code MCP settings
 
-Image-to-video prompts that convert well:
+The API base is `https://api.kie.ai`. All generation tasks are asynchronous — Claude polls for completion automatically.
 
-> *"Animate this product photo with a subtle zoom and lens flare — 3 seconds, seamless loop."*
+**Image-to-video prompts that work well:**
+
+> *"Animate this product photo — subtle zoom and lens flare, 3 seconds, seamless loop."*
 
 > *"Turn this screenshot into a parallax video: foreground moves faster than background, 4 seconds."*
 
-The free guide includes the full prompt list for both tools. **[Grab it here →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
+> *"Apply motion blur and handheld camera shake for a documentary-style feel, 5 seconds."*
 
-## How to Reverse-Engineer Any $1M App Store App with Claude Code
+A practical split that works well: use Kie.ai for bulk B-roll and Higgsfield for your hero carousel clips. You get the premium look where it counts and keep costs low everywhere else.
 
-Here's where it gets wild. You don't need a dev team or a $500K budget to build an app that competes with the best in your niche. You need Claude Code, a set of screenshots, and two prompts.
+For the full prompt list for both tools, [grab the free guide here →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)
 
-**Step 1 — Pick your target.** Open the App Store, search your niche, and sort by Top Charts. You're looking for an app with 4.5+ stars and 10K+ reviews. That review count is proof the market exists. That's your blueprint.
+## Bonus: Reverse-Engineer Any $1M App Store App with Claude Code
 
-**Step 2 — Screenshot everything.** Capture the full user journey: onboarding screens, main dashboard, key feature screens, settings, and the paywall or pricing screen. Drop them all into one folder on your desktop.
+Once your carousel is driving traffic, Claude Code can help you build the product that converts it. This workflow uses screenshots of any top-ranked App Store app to generate a complete build plan — no dev team, no prior coding experience.
 
-**Step 3 — Paste into Claude Code and use the reverse-engineering prompt:**
+**How it works:**
 
-> *"I'm going to paste screenshots of [App Name]. Analyze the complete feature set, UI/UX patterns, user flows, monetization model, and core value proposition. Then give me: (1) a ranked list of the 5 most important features to clone first, (2) the recommended tech stack, (3) a project folder structure, and (4) the first file to create."*
+1. Open the App Store, go to Top Charts in your niche, pick an app with 4.5+ stars and 10K+ reviews
+2. Screenshot the full user journey: onboarding, main dashboard, key features, paywall, settings
+3. Drop all screenshots into Claude Code and use this prompt:
 
-Claude will map the app's entire architecture from those screenshots. It identifies patterns, infers the data model, and suggests a build order based on dependency logic — not random guessing.
+> *"Analyze these screenshots of [App Name]. Give me: (1) the top 5 features to clone first, (2) the recommended tech stack, (3) a project folder structure, and (4) the first file to create."*
 
-**Step 4 — Build it with this follow-up prompt:**
+4. Follow up with:
 
-> *"Based on your analysis, scaffold the full project. Use [the tech stack Claude recommended]. Create the complete folder structure, install dependencies, and build [Feature 1] first with full styling matching the app's visual style."*
+> *"Scaffold the full project using [tech stack Claude recommended]. Build [Feature 1] first with styling that matches the screenshots."*
 
-**Step 5 — Iterate screen by screen.** After each feature is built, paste the next screenshot and say:
+5. Paste the next screenshot after each feature is built:
 
 > *"Now build this screen exactly as shown. Match the layout, spacing, and interactions."*
 
-Pro tip before you start: Add a `CLAUDE.md` file to your project with your brand colors, font stack, and preferred component library. Claude will use them consistently across every screen — no re-prompting needed.
+Before you start, add a `CLAUDE.md` file to your project with your brand colors and preferred component library. Claude applies them consistently across every screen — no re-prompting required.
 
-## What to Do With Your Clips After You Generate Them
+## What to Do With Your Clips After Generation
 
-Once you have the AI video clips, the rest of the carousel creation workflow is fast:
+Once you have the AI video clips, the rest of the workflow moves fast:
 
-- Drop clips into **Captions.app** or **CapCut** for captions and transitions
+- Drop into **Captions.app** or **CapCut** for captions and transitions
 - Use **Blotato** (or Claude Code's Blotato MCP) to schedule the carousel across Instagram, TikTok, and YouTube Shorts in one pass
-- Repurpose the same clips into a B-roll library for future content — AI-generated B-roll stays evergreen
+- Save reusable clips to a B-roll library — AI-generated B-roll stays evergreen
 
-If you're using Claude Code for content automation already, this slots directly into your existing workflow. The Higgsfield or Kie.ai output becomes just another asset your system handles.
+Both Higgsfield and Kie.ai output files that slot directly into this workflow.
 
 ## Start With the Prompt Guide
 
-The fastest way to start is with the free cheat sheet — it has the exact MCP setup steps, the Kie.ai integration, and both power prompts for app reverse-engineering, formatted for quick reference.
+The free cheat sheet has the correct Higgsfield MCP install command, the Kie.ai integration steps, and the power prompts for both carousel videos and app reverse-engineering — formatted for quick reference.
 
-**[Download the free Carousel Video Creator + App Builder Prompt Guide →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
+**[Download the free Carousel Video Creator Prompt Guide →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
 
-If you're ready to go deeper into building full AI content systems with Claude Code, the [Vibe Coding Mastery](https://builds.digicuratoragency.com/) community covers the full stack — skills, automations, and weekly live builds.
+Ready to go further? [Vibe Coding Mastery](https://builds.digicuratoragency.com/) covers the full system — skills, automations, and weekly live builds with Claude Code.
