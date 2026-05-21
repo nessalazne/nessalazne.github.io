@@ -267,6 +267,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/5-skills-for-creators-claude-code",
       post: "https://blog.digicuratoragency.com/5-skills-for-creators-claude-code/"
     }
+  ],
+  "carousel": [
+    {
+      title: "Carousel Video Creator + App Builder Prompt Guide",
+      desc: "The exact prompts for generating AI carousel videos with Higgsfield MCP or Kie.ai — plus the two-prompt system for reverse-engineering any $1M App Store app with Claude Code.",
+      url: "https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai",
+      post: "https://blog.digicuratoragency.com/claude-code-carousel-video-higgsfield-kieai/"
+    }
   ]
 };
 
