@@ -275,6 +275,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai",
       post: "https://blog.digicuratoragency.com/claude-code-carousel-video-higgsfield-kieai/"
     }
+  ],
+  "wiggum": [
+    {
+      title: "Chief Wiggum Goal Execution System",
+      desc: "Paste-ready /goal and Mission Control skill blocks for Claude Code — the two-layer AI goal execution system that actually ships your goals.",
+      url: "https://guides.digicuratoragency.com/guides/chief-wiggum-ai-goal-executor",
+      post: "https://blog.digicuratoragency.com/chief-wiggum-ai-goal-executor/"
+    }
   ]
 };
 
