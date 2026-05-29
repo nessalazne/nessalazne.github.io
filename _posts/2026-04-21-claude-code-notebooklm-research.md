@@ -95,4 +95,4 @@ If you want to see more workflows like this, subscribe to the channel and drop a
 
 ---
 
-*Want to build AI systems like this for your own content workflow? Check out [Vibe Coding Mastery](https://digicuratoragency.com/vibe-coding-mastery) — the full course on building agentic AI systems for creators.*
+*Want to build AI systems like this for your own content workflow? Check out [Vibe Coding Mastery](https://builds.digicuratoragency.com/) — the full course on building agentic AI systems for creators.*

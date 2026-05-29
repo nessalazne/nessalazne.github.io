@@ -152,6 +152,6 @@ Add the skills and inputs/outputs structure as your project grows. Don't over-en
 
 Getting your Claude Code folder setup right is a 20-minute investment that pays off every single session. Your agent stops asking redundant questions, follows your rules without reminders, and knows exactly where to put things.
 
-This is the foundation of every agentic workflow we build inside [Vibe Coding Mastery](https://digicuratoragency.com/vibe-coding-mastery) — and it's free to set up today.
+This is the foundation of every agentic workflow we build inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/) — and it's free to set up today.
 
 Grab the free **[Claude Code Folder Setup Guide](https://guides.digicuratoragency.com/guides/claude-code-folder-setup)** — a 3-page PDF with the full folder structure diagram and a checklist to get your project configured in under 20 minutes.

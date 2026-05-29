@@ -198,4 +198,4 @@ I go deeper on every phase in the video — including specific examples of how t
 
 If you want to go deeper on building AI automation systems — workflows, agents, content systems, marketing automation — that's exactly what we build inside **Vibe Coding Mastery**.
 
-[Join Vibe Coding Mastery →](https://digicuratoragency.com/vibe-coding-mastery)
+[Join Vibe Coding Mastery →](https://builds.digicuratoragency.com/)

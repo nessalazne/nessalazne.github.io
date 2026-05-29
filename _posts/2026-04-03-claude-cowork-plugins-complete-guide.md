@@ -83,4 +83,4 @@ To customize any existing plugin, just edit its markdown file and add your compa
 
 Plugins are just the start. Once you have these running, you can chain Claude Cowork and Claude Code together into full automation systems — content pipelines, agent workflows, marketing engines.
 
-That's exactly what we build inside [Vibe Coding Mastery](https://digicuratoragency.com/vibe-coding-mastery).
+That's exactly what we build inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
