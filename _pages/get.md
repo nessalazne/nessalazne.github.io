@@ -283,6 +283,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/chief-wiggum-ai-goal-executor",
       post: "https://blog.digicuratoragency.com/chief-wiggum-ai-goal-executor/"
     }
+  ],
+  "skill": [
+    {
+      title: "5 Claude Code Skills — Real Project Setup Guide",
+      desc: "The 5-skill stack that automates your entire content workflow — with step-by-step instructions for each skill and the exact sequence to run them in a real project.",
+      url: "https://guides.digicuratoragency.com/guides/claude-code-5-skills-project",
+      post: "https://blog.digicuratoragency.com/claude-code-5-skills-project/"
+    }
   ]
 };
 
