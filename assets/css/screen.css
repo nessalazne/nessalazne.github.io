@@ -983,7 +983,8 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-/* Mobile-only nav controls (replace hamburger below lg): pill button + search */
+/* Mobile-only nav (replaces hamburger below lg): contextual pill + search bar.
+   Green matches the "get it" buttons on /get/ (#1a5d1a / hover #123d12). */
 .navbar-mobile-controls {
     display: flex;
     align-items: center;
@@ -992,7 +993,7 @@ iframe {
     display: inline-block;
     padding: 6px 16px;
     border-radius: 999px;
-    background: #00ab6b;
+    background: #1a5d1a;
     color: #fff !important;
     font-weight: 700;
     font-size: 15px;
@@ -1001,28 +1002,25 @@ iframe {
     white-space: nowrap;
 }
 .navbar-mobile-cta:hover {
-    background: #019d63;
+    background: #123d12;
     color: #fff;
     text-decoration: none;
 }
-.navbar-mobile-search-toggle {
-    margin-left: 10px;
-    padding: 6px 10px;
-    border: 1px solid #e6e6e6;
-    border-radius: 8px;
-    background: #fff;
-    color: #444;
-    font-size: 16px;
-    line-height: 1;
-    cursor: pointer;
+/* Always-visible search bar on its own full-width row inside the navbar */
+.navbar-mobile-search {
+    flex: 0 0 100%;
+    width: 100%;
+    margin-top: 8px;
 }
-.navbar-mobile-search-toggle:focus {
-    outline: none;
-    box-shadow: 0 0 0 2px rgba(0, 171, 107, 0.25);
-}
-#mobileSearch .bd-search {
+.navbar-mobile-search .bd-search {
     margin-bottom: 0;
 }
-#mobileSearch .form-control {
+.navbar-mobile-search .form-control {
     width: 100%;
+}
+/* The two-row mobile navbar is taller, so push content clear of it */
+@media (max-width: 991.98px) {
+    .site-content {
+        margin-top: 104px;
+    }
 }
