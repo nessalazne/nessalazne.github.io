@@ -54,16 +54,28 @@ ga('send', 'pageview');
     </a>
     <!-- End Logo -->
 
-    <!-- Mobile-only contextual quick link (replaces hamburger on small screens) -->
-    {% if page.url == "/get/" %}
-    <a class="navbar-mobile-cta d-lg-none" href="{{ site.baseurl }}/index.html">📝 Blog</a>
-    {% else %}
-    <a class="navbar-mobile-cta d-lg-none" href="{{ site.baseurl }}/get/">🎁 Free Guides</a>
-    {% endif %}
+    <!-- Mobile-only controls (replace the hamburger on small screens) -->
+    <div class="navbar-mobile-controls d-lg-none">
+        {% if page.url == "/get/" %}
+        <a class="navbar-mobile-cta" href="{{ site.baseurl }}/index.html">📝 Blog</a>
+        {% else %}
+        <a class="navbar-mobile-cta" href="{{ site.baseurl }}/get/">🎁 Free Guides</a>
+        {% endif %}
+        <button class="navbar-mobile-search-toggle" type="button" data-toggle="collapse" data-target="#mobileSearch" aria-controls="mobileSearch" aria-expanded="false" aria-label="Toggle search">
+        <i class="fa fa-search"></i>
+        </button>
+    </div>
 
     <button class="navbar-toggler d-none" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
+
+    <!-- Mobile-only search field, revealed by the search icon above -->
+    <div class="collapse navbar-collapse d-lg-none" id="mobileSearch">
+        <form class="bd-search w-100 py-2" onSubmit="return lunr_search(document.getElementById('lunrsearch-mobile').value);">
+            <input type="text" class="form-control text-small" id="lunrsearch-mobile" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+        </form>
+    </div>
 
     <div class="collapse navbar-collapse" id="navbarMediumish">
 
@@ -99,6 +111,12 @@ ga('send', 'pageview');
 </nav>
 <!-- End Navigation
 ================================================== -->
+
+<!-- Search results modal target (shared by desktop + mobile search; kept at
+     body level so it isn't hidden inside the collapsed mobile menu) -->
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
 
 <div class="site-content">
 

@@ -983,7 +983,11 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-/* Mobile-only contextual nav button (replaces hamburger below lg) */
+/* Mobile-only nav controls (replace hamburger below lg): pill button + search */
+.navbar-mobile-controls {
+    display: flex;
+    align-items: center;
+}
 .navbar-mobile-cta {
     display: inline-block;
     padding: 6px 16px;
@@ -994,9 +998,31 @@ iframe {
     font-size: 15px;
     text-decoration: none;
     line-height: 1.4;
+    white-space: nowrap;
 }
 .navbar-mobile-cta:hover {
     background: #019d63;
     color: #fff;
     text-decoration: none;
+}
+.navbar-mobile-search-toggle {
+    margin-left: 10px;
+    padding: 6px 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    background: #fff;
+    color: #444;
+    font-size: 16px;
+    line-height: 1;
+    cursor: pointer;
+}
+.navbar-mobile-search-toggle:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 171, 107, 0.25);
+}
+#mobileSearch .bd-search {
+    margin-bottom: 0;
+}
+#mobileSearch .form-control {
+    width: 100%;
 }
