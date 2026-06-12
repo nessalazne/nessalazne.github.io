@@ -983,3 +983,20 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+/* Mobile-only contextual nav button (replaces hamburger below lg) */
+.navbar-mobile-cta {
+    display: inline-block;
+    padding: 6px 16px;
+    border-radius: 999px;
+    background: #00ab6b;
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none;
+    line-height: 1.4;
+}
+.navbar-mobile-cta:hover {
+    background: #019d63;
+    color: #fff;
+    text-decoration: none;
+}

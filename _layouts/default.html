@@ -54,7 +54,14 @@ ga('send', 'pageview');
     </a>
     <!-- End Logo -->
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <!-- Mobile-only contextual quick link (replaces hamburger on small screens) -->
+    {% if page.url == "/get/" %}
+    <a class="navbar-mobile-cta d-lg-none" href="{{ site.baseurl }}/index.html">📝 Blog</a>
+    {% else %}
+    <a class="navbar-mobile-cta d-lg-none" href="{{ site.baseurl }}/get/">🎁 Free Guides</a>
+    {% endif %}
+
+    <button class="navbar-toggler d-none" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
 
