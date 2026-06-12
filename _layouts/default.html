@@ -34,7 +34,7 @@ ga('send', 'pageview');
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}}">
+<body class="{{layout}}{% if page.url == "/get/" %} no-mobile-search{% endif %}">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -67,12 +67,14 @@ ga('send', 'pageview');
     <span class="navbar-toggler-icon"></span>
     </button>
 
-    <!-- Mobile-only search bar, always visible on its own row below the logo/button -->
+    <!-- Mobile-only search bar (own row below logo/button); hidden on /get/ -->
+    {% unless page.url == "/get/" %}
     <div class="navbar-mobile-search d-lg-none" id="mobileSearch">
         <form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch-mobile').value);">
             <input type="text" class="form-control text-small" id="lunrsearch-mobile" name="q" maxlength="255" value="" placeholder="🔍 Search the blog..."/>
         </form>
     </div>
+    {% endunless %}
 
     <div class="collapse navbar-collapse" id="navbarMediumish">
 

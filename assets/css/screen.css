@@ -1023,4 +1023,8 @@ iframe {
     .site-content {
         margin-top: 104px;
     }
+    /* /get/ has no search row, so keep the default single-row spacing */
+    .no-mobile-search .site-content {
+        margin-top: 57px;
+    }
 }
