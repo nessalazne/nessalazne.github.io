@@ -299,6 +299,14 @@ var GUIDES = {
       url: "https://guides.digicuratoragency.com/guides/claude-code-5-skills-project",
       post: "https://blog.digicuratoragency.com/claude-code-5-skills-project/"
     }
+  ],
+  "cms": [
+    {
+      title: "Claude Code CMS Dashboard Playbook",
+      desc: "A practical build checklist, data model, safety rules, and Claude Code prompt for adding a client-safe CMS to AI-built websites.",
+      url: "https://guides.digicuratoragency.com/guides/claude-code-cms-dashboard",
+      post: "https://blog.digicuratoragency.com/claude-code-cms-dashboard/"
+    }
   ]
 };
 
