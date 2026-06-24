@@ -21,8 +21,14 @@ Grab the complete **10 Slash Commands Cheat Sheet** — all 10 commands, what ea
 
 ---
 
-<div class="video-container" style="position:relative;padding-bottom:177.78%;height:0;overflow:hidden;max-width:100%;margin:2rem auto;">
-  <iframe src="https://www.youtube.com/embed/IJBz7HCKcXw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 315px; margin: 2rem auto;">
+  <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; border-radius: 10px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/IJBz7HCKcXw"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+  </div>
 </div>
 
 ---
