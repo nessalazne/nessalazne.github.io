@@ -308,6 +308,14 @@ var GUIDES = {
       post: "https://blog.digicuratoragency.com/claude-code-cms-dashboard/"
     }
   ],
+  "studio": [
+    {
+      title: "The Malleable Software Playbook",
+      desc: "A step-by-step playbook for auditing your current software stack and building flexible AI business systems you own — with Claude Code prompts included.",
+      url: "https://guides.digicuratoragency.com/guides/malleable-software-ai-business",
+      post: "https://blog.digicuratoragency.com/malleable-software-ai-business/"
+    }
+  ],
   "commands": [
     {
       title: "Claude Slash Commands Cheat Sheet",
