@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "niche": [
+    {
+      title: "The Trending Niche Finder",
+      desc: "The exact Claude Code research prompt and 5-signal scoring framework to find trending, low-competition content niches in minutes — no guessing.",
+      url: "https://guides.digicuratoragency.com/guides/ai-find-trending-content-niches",
+      post: "https://blog.digicuratoragency.com/ai-find-trending-content-niches/"
+    }
+  ],
   "fable": [
     {
       title: "Fable vs Opus: The 4 App-Build Test Prompts",
