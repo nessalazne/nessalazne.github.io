@@ -71,4 +71,4 @@ For the exact prompt, the skill structure, and the scoring framework laid out st
 
 Your content isn't underperforming because you're a bad creator. It's underperforming because it's aimed at a niche you guessed instead of one you *validated*. Hand the research to an AI agent, let it score the opportunity, and you'll spend your creative energy where the demand already is.
 
-If you want to build these kinds of agentic systems — niche research, content repurposing, and full automation — without a coding background, that's exactly what we do inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/). Come build the systems that actually move your business forward.
+If you want the whole system — niche research, outlier detection, and content repurposing — in one place you actually own, that's exactly what [GrowthOS](https://builds.digicuratoragency.com/growth-os/) is: the AI business operating system you build once and own forever. Come build the systems that actually move your business forward.
