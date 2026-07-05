@@ -330,6 +330,12 @@ var GUIDES = {
       desc: "All 12 must-know Claude Code slash commands — the 7 from the video plus 5 more builder commands — with what each does, when to use it, and a pro tip.",
       url: "https://guides.digicuratoragency.com/guides/claude-code-slash-commands",
       post: "https://blog.digicuratoragency.com/claude-code-slash-commands/"
+    },
+    {
+      title: "Claude Slash Commands Cheat Sheet",
+      desc: "10 built-in Claude Code slash commands — 6 from the video plus 4 essential builder commands — with what each does, when to use it, and pro tips.",
+      url: "https://guides.digicuratoragency.com/guides/claude-slash-commands-guide",
+      post: "https://blog.digicuratoragency.com/claude-slash-commands-guide/"
     }
   ]
 };
