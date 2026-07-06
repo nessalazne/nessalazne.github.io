@@ -174,6 +174,22 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "prompts": [
+    {
+      title: "How to Actually Prompt Fable 5",
+      desc: "Anthropic's field guide to Fable 5 — effort levels, the verification prompt that stops it faking progress, and the memory + sub-agent setups that make it reliable on long runs.",
+      url: "https://guides.digicuratoragency.com/guides/fable-5-prompting-guide",
+      post: "https://blog.digicuratoragency.com/fable-5-prompting-guide/"
+    }
+  ],
+  "prompt": [
+    {
+      title: "How to Actually Prompt Fable 5",
+      desc: "Anthropic's field guide to Fable 5 — effort levels, the verification prompt that stops it faking progress, and the memory + sub-agent setups that make it reliable on long runs.",
+      url: "https://guides.digicuratoragency.com/guides/fable-5-prompting-guide",
+      post: "https://blog.digicuratoragency.com/fable-5-prompting-guide/"
+    }
+  ],
   "niche": [
     {
       title: "The Trending Niche Finder",
