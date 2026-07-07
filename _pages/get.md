@@ -204,6 +204,11 @@ var GUIDES = {
       desc: "The exact 4 prompts used to test Claude Fable 5 against Opus — one per app (quiz app, booking app, landing page, simulation game) so you can run the same head-to-head yourself.",
       url: "https://guides.digicuratoragency.com/guides/claude-fable-vs-opus",
       post: "https://blog.digicuratoragency.com/claude-fable-vs-opus/"
+    },
+    {
+      title: "Fable 5's Leaked System Prompt, Decoded",
+      desc: "The full 120,000-character Fable 5 system prompt leak, where to read it, and how to inject its reasoning structure into a cheaper open-source model.",
+      url: "https://blog.digicuratoragency.com/fable-5-leaked-system-prompt/"
     }
   ],
   "edit": [
