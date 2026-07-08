@@ -209,6 +209,12 @@ var GUIDES = {
       title: "Fable 5's Leaked System Prompt, Decoded",
       desc: "The full 120,000-character Fable 5 system prompt leak, where to read it, and how to inject its reasoning structure into a cheaper open-source model.",
       url: "https://blog.digicuratoragency.com/fable-5-leaked-system-prompt/"
+    },
+    {
+      title: "The Chef's Kitchen Loop for Claude Code",
+      desc: "The 3-tier model system — head chef, sous chef, line cooks — plus the exact executor sub-agent and loop setup to stop burning your best Claude model on grunt work.",
+      url: "https://guides.digicuratoragency.com/guides/chefs-kitchen-loop-claude-code",
+      post: "https://blog.digicuratoragency.com/chefs-kitchen-loop-claude-code/"
     }
   ],
   "edit": [
