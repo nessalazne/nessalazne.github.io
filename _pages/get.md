@@ -343,6 +343,22 @@ var GUIDES = {
       post: "https://blog.digicuratoragency.com/beat-context-rot-claude-code-handoff/"
     }
   ],
+  "subagent": [
+    {
+      title: "Beat Context Rot: The Claude Code Handoff Method",
+      desc: "The six-section handoff.md template and copy-paste prompt that stop Claude Code sessions from getting dumber the longer they run.",
+      url: "https://guides.digicuratoragency.com/guides/beat-context-rot-claude-code-handoff",
+      post: "https://blog.digicuratoragency.com/beat-context-rot-claude-code-handoff/"
+    }
+  ],
+  "sub agent": [
+    {
+      title: "Beat Context Rot: The Claude Code Handoff Method",
+      desc: "The six-section handoff.md template and copy-paste prompt that stop Claude Code sessions from getting dumber the longer they run.",
+      url: "https://guides.digicuratoragency.com/guides/beat-context-rot-claude-code-handoff",
+      post: "https://blog.digicuratoragency.com/beat-context-rot-claude-code-handoff/"
+    }
+  ],
   "cms": [
     {
       title: "Claude Code CMS Dashboard Playbook",
