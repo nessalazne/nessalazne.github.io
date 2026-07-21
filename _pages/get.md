@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "receipt": [
+    {
+      title: "The Boring App Build Playbook",
+      desc: "The screenshot prompt that makes Claude Code reverse-engineer a proven App Store app, the PRD it returns, and the phased build prompt — worked through on a $80K/month receipt tracker.",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/boring-apps-receipt-tracker-claude-code/"
+    }
+  ],
   "prompts": [
     {
       title: "How to Actually Prompt Fable 5",
