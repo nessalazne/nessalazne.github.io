@@ -291,6 +291,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "Claude Code Beginner's Playbook",
+      desc: "Your No-Code Guide to Building Real Apps With Claude Code",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/claude-code-for-non-developers/"
+    },
+    {
       title: "Claude 101: Beginner's Cheat Sheet",
       desc: "A quick-reference PDF with the 3-part prompt formula, 5 essential Claude commands, and the top 3 workflows to set up first.",
       url: "https://guides.digicuratoragency.com/guides/claude-101-beginners-guide",
