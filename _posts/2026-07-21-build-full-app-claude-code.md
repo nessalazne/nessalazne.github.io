@@ -151,7 +151,7 @@ You paste the exact error message back into Claude Code and it self-corrects: it
 
 The leverage shift is real: one founder with a well-written CLAUDE.md master prompt now ships what used to take a contracted dev team. Claude Chat writes the spec, Claude Code builds every layer — authentication, database, payments, dashboard — and the error loop means broken never stays broken. You direct it like a founder, because that is what you are.
 
-Ready to build systems you own instead of renting someone else's? That is exactly what we do inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+Ready to build systems you own instead of renting someone else's? That is exactly what we do inside [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).
 
 <script type="application/ld+json">
 {

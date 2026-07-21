@@ -93,7 +93,7 @@ As of July 2026, use a higher-capability model such as Claude Opus 4.8 for compl
 
 Claude Code for non-developers flips the script: you are not learning to code, you are learning to make good product decisions and let the AI do the building. Start in Plan Mode, describe the outcome, answer the questions, approve the plan, and ship. The name has "code" in it, but the work is pure vision and judgment — exactly the skills you already have.
 
-Ready to build your first real app with AI as your co-builder? [Join the Vibe Coding Build →](https://builds.digicuratoragency.com/) and turn your idea into something deployable.
+Ready to build your first real app with AI as your co-builder? [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about) and turn your idea into something deployable.
 
 <script type="application/ld+json">
 {

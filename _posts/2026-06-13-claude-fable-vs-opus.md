@@ -83,6 +83,6 @@ Want to run this exact test yourself? The four prompts I used — one for each a
 
 **[Get the free Fable vs Opus Test Prompts Guide →](https://guides.digicuratoragency.com/guides/claude-fable-vs-opus)**
 
-If you want to go from testing models to actually shipping real apps with Claude Code, come build with us at [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+If you want to go from testing models to actually shipping real apps with Claude Code, come build with us at [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).
 
-[Join the Vibe Coding Build →](https://builds.digicuratoragency.com/)
+[Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)

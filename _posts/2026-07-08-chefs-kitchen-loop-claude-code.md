@@ -82,4 +82,4 @@ If you're blowing through your Fable 5 limits, the fix isn't a bigger budget —
 
 Grab the [free Chef's Kitchen Loop Playbook](https://guides.digicuratoragency.com/guides/chefs-kitchen-loop-claude-code) for the paste-ready executor sub-agent config and loop wiring, then start rebuilding your workflow around it.
 
-And if you want to go further and build a full AI system you actually own — not just a smarter prompt — come [Join the Vibe Coding Build →](https://builds.digicuratoragency.com/) inside Vibe Coding Mastery.
+And if you want to go further and build a full AI system you actually own — not just a smarter prompt — come [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about) inside Vibe Coding Mastery.

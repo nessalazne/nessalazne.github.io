@@ -116,9 +116,9 @@ A few habits that compound quickly:
 
 Slash commands are one layer of Claude Code. The real power comes from combining them with Skills, Routines, and a properly configured CLAUDE.md — turning Claude from a chat tool into a fully autonomous workflow system.
 
-If you want the full system — not just slash commands, but the complete Claude Code automation setup — that's exactly what [Vibe Coding Mastery](https://builds.digicuratoragency.com/) covers. It's a library of ready-to-deploy AI systems for creators and entrepreneurs, not another course to sit through.
+If you want the full system — not just slash commands, but the complete Claude Code automation setup — that's exactly what [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) covers. It's a library of ready-to-deploy AI systems for creators and entrepreneurs, not another course to sit through.
 
-**[Join the Vibe Coding Build →](https://builds.digicuratoragency.com/)**
+**[Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)**
 
 And don't forget to grab the free cheat sheet — all 10 commands, one page, ready to reference any time:
 

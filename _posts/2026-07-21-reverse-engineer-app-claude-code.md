@@ -140,7 +140,7 @@ No, but you need to be able to read what the agent produces and say when it is w
 
 You do not need an original idea. You need a proven app, a pile of complaints about it, and a PRD that turns those complaints into a build plan. That sequence is what a 19-year-old turned into a $30 million exit, and none of the three steps requires anything you do not already have access to.
 
-Pick the app in your niche this week, pull the reviews, and let Claude Code write the PRD. If you want the full system — the prompts, the project structure, and the builds — come [Join the Vibe Coding Build →](https://builds.digicuratoragency.com/).
+Pick the app in your niche this week, pull the reviews, and let Claude Code write the PRD. If you want the full system — the prompts, the project structure, and the builds — come [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about).
 
 <script type="application/ld+json">
 {

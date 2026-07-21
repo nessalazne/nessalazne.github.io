@@ -118,7 +118,7 @@ Add more specifics to your screenshot or prompt — the actual review count, a l
 
 You don't need an original idea to start building — you need a proven app and thirty seconds with Claude. Screenshot the top app in a category you understand, run the reverse-engineering prompt, and let Claude hand you the ICP, the gap, and the angle before you write a single line of code.
 
-Want the full system — the worked example, the build prompts, and the project structure to ship it? [Join the Vibe Coding Build →](https://builds.digicuratoragency.com/)
+Want the full system — the worked example, the build prompts, and the project structure to ship it? [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)
 
 <script type="application/ld+json">
 {

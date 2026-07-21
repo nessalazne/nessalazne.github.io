@@ -83,4 +83,4 @@ Fable 5 is pay-per-use and premium, so don't waste it on work you've already sol
 
 If you want the deeper mechanics — the effort levels, the progress-verification prompt, and the memory and sub-agent setups that make Fable 5 dependable on long autonomous runs — [grab the free Fable 5 Prompting Playbook](https://guides.digicuratoragency.com/guides/fable-5-prompting-guide).
 
-And when you're ready to build full AI systems like this — not just one-off prompts — come [Join the Vibe Coding Build →](https://builds.digicuratoragency.com/) inside Vibe Coding Mastery.
+And when you're ready to build full AI systems like this — not just one-off prompts — come [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about) inside Vibe Coding Mastery.

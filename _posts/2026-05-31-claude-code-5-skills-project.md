@@ -113,6 +113,6 @@ For the full setup guide — GitHub links, install steps, and the exact prompt f
 
 **[Get the free 5 Claude Code Skills Project Guide →](https://guides.digicuratoragency.com/guides/claude-code-5-skills-project)**
 
-If you want to build your own agentic project stack and have it running this week, come join us at [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+If you want to build your own agentic project stack and have it running this week, come join us at [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).
 
-[Join the Vibe Coding Build →](https://builds.digicuratoragency.com/)
+[Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)
