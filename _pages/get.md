@@ -299,6 +299,12 @@ var GUIDES = {
   ],
   "build": [
     {
+      title: "The App Idea Research Prompt Guide",
+      desc: "Screenshot Any App, Get a Full Business Case: The Claude Reverse-Engineering Prompt + a Worked Example",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/app-idea-research-claude/"
+    },
+    {
       title: "Claude Code 4 Tips Cheat Sheet",
       desc: "A 1-page quick-reference guide covering the 4 Claude Code tips that shift it from a chatbot into a full agentic workflow system — CLAUDE.md, Skills, Sub-agents, and Hooks.",
       url: "https://guides.digicuratoragency.com/guides/claude-code-4-tips",
