@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Claude Code Skills Every Creator Needs Right Now"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, Content Automation]
 image: assets/images/5-skills-for-creators-claude-code-header.jpg
 featured: false

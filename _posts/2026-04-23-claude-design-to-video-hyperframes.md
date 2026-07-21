@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Design to Video: Turn Any Design Into an Animated MP4 in 4 Steps"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Content Creation]
 image: assets/images/claude-design-to-video-hyperframes-header.jpg
 featured: false

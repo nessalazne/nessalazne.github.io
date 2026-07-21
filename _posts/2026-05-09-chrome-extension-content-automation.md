@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chrome Extension That Cuts Content Posting From 3 Hours to 2 Minutes"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Content Creation]
 image: assets/images/chrome-extension-content-automation-header.jpg
 featured: false

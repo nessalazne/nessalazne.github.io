@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Claude Code Skills You Can Use in a Real Project Right Now"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Antigravity]
 image: assets/images/claude-code-5-skills-project-header.jpg
 featured: false

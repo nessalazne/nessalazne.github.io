@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use Fable 5: 3 High-Leverage Moves Before Your Budget Runs Out"
-author: nessa
+author: ness
 categories: [Claude, Fable 5, AI Automation]
 image: assets/images/fable-5-prompting-guide-header.jpg
 featured: false

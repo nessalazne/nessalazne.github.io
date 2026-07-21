@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Fable vs Opus: I Built 4 Real Apps to See If It's Worth 2× the Cost"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, AI Automation]
 image: assets/images/claude-fable-vs-opus-header.jpg
 featured: false

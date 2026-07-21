@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Build a Claude Code CMS Dashboard for Client Websites"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/claude-code-cms-dashboard-header.jpg
 featured: false

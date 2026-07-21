@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up Your Claude Code Project Folder"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, Vibe Coding]
 image: assets/images/claude-code-folder-setup-header.jpg
 featured: false

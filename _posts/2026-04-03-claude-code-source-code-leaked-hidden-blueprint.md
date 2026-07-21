@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code's Source Code Just Leaked — Here's The Hidden Blueprint"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, AI Agents]
 image: assets/images/claude-code-leaked-blueprint-header.jpg
 featured: true

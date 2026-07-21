@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Create AI Carousel Videos with Claude Code (Higgsfield or Kie.ai)"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/claude-code-carousel-video-higgsfield-kieai-header.jpg
 featured: false

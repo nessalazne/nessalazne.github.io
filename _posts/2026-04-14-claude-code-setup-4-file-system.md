@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Setup: The 4-File System That Changes Everything"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Vibe Coding]
 image: assets/images/claude-code-setup-4-file-system-header.png
 featured: true

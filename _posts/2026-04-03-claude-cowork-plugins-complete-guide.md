@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Cowork Plugins: The Complete Setup Guide"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, AI Agents]
 image: assets/images/claude-cowork-plugins-header.png
 featured: true

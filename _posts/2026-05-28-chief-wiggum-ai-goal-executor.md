@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Built an AI OS That Actually Executes My Goals (Chief Wiggum 2.0)"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/chief-wiggum-ai-goal-executor-header.jpg
 featured: false

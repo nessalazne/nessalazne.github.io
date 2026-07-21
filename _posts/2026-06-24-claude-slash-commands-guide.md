@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Slash Commands: 10 Built-In Commands Every User Needs to Know"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Antigravity]
 image: assets/images/claude-slash-commands-guide-header.jpg
 featured: false

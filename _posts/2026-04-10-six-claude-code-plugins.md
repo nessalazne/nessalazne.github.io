@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 Claude Code Plugins That Supercharge Your AI Dev Workflow"
-author: nessa
+author: ness
 categories: [Claude Code, AI Tools, AI Agents]
 image: assets/images/six-claude-code-plugins-header.jpg
 featured: false

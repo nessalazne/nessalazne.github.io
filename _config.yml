@@ -11,14 +11,14 @@ include: ["_pages"]
 permalink: /:title/
 
 # SEO (jekyll-seo-tag)
-author: nessa
+author: ness
 twitter:
   username: nessalazne
   card: summary_large_image
 
 # Authors
 authors:
-  nessa:
+  ness:
     name: Ness Alazne
     display_name: Ness Alazne
     avatar: 'assets/images/avatar.png'

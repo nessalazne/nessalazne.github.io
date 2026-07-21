@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Create Videos with Remotion in Claude Code (Antigravity IDE)"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/remotion-claude-code-video-creator-header.jpg
 featured: false

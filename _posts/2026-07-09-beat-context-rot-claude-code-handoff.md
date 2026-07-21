@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beat Context Rot: The Claude Code Handoff Method That Keeps Sessions Sharp"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, GrowthOS]
 image: assets/images/beat-context-rot-claude-code-handoff-header.jpg
 featured: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code + NotebookLM: Auto-Generate Research Podcasts"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, NotebookLM]
 image: assets/images/claude-code-notebooklm-research-header.png
 featured: false

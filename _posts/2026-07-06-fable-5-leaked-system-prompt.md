@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fable 5's System Prompt Just Leaked: What 120,000 Characters Reveal About Anthropic's Playbook"
-author: nessa
+author: ness
 categories: [Claude, Fable 5, AI Automation]
 image: assets/images/fable-5-leaked-system-prompt-header.jpg
 featured: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Clone a $1M App Store App Using Claude Code"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/build-1m-app-claude-code-header.jpg
 featured: false

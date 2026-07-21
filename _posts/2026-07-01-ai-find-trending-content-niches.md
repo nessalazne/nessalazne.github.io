@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Guessing Your Content: How AI Finds Trending Niches For You"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Content Strategy]
 image: assets/images/ai-find-trending-content-niches-header.jpg
 featured: false

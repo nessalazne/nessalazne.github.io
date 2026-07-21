@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chef's Kitchen Loop: Stop Burning Your Best Claude Model on Grunt Work"
-author: nessa
+author: ness
 categories: [Claude Code, Fable 5, AI Automation]
 image: assets/images/chefs-kitchen-loop-claude-code-header.jpg
 featured: false

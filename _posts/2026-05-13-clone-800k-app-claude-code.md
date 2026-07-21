@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Cloned a $800K App in 15 Minutes Using Claude Code (No Dev Team)"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/clone-800k-app-claude-code-header.jpg
 featured: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Malleable Software (And Why Every Business Owner Needs It)"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/malleable-software-ai-business-header.jpg
 featured: false

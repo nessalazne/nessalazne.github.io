@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4 Claude Code Tips That Will Change How You Build"
-author: nessa
+author: ness
 categories: [Claude Code, Antigravity, AI Automation]
 image: assets/images/claude-code-4-tips-header.jpg
 featured: false

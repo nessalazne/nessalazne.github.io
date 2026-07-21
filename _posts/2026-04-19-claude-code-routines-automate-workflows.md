@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use Claude Code Routines to Automate Your Workflows"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Vibe Coding]
 image: assets/images/claude-code-routines-header.jpg
 featured: false

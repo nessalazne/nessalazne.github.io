@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude 101: The Beginner's Guide to AI That Actually Does the Work For You"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Antigravity]
 image: assets/images/claude-101-beginners-guide-header.jpg
 featured: false

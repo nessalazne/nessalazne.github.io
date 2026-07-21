@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 Claude Code Slash Commands That Make You 2× Faster"
-author: nessa
+author: ness
 categories: [Claude Code, AI Automation, Productivity]
 image: assets/images/claude-code-slash-commands-header.jpg
 featured: false
