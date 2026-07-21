@@ -96,4 +96,4 @@ Comment **WIGGUM** on the video and I'll send it to your DMs.
 
 ---
 
-Want to go deeper on agentic systems with Claude Code? [Vibe Coding Mastery](https://builds.digicuratoragency.com/) is a library of ready-to-deploy AI automation systems for creators and entrepreneurs — not a course, not theory. Systems you switch on and use today.
+Want to go deeper on agentic systems with Claude Code? [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) is a library of ready-to-deploy AI automation systems for creators and entrepreneurs — not a course, not theory. Systems you switch on and use today.

@@ -110,4 +110,4 @@ Set this up once across your projects and Claude Code will start feeling like a 
 
 ---
 
-If you want to go further — building full agent workflows, skill libraries, and AI automation pipelines — that's exactly what we cover inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+If you want to go further — building full agent workflows, skill libraries, and AI automation pipelines — that's exactly what we cover inside [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).

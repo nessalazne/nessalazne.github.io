@@ -134,4 +134,4 @@ All 6 are free to install. The only cost is your Claude subscription.
 
 ---
 
-If you want to go deeper on building systems with Claude Code — not just plugins, but full agentic workflows, skills, and automation pipelines — that's exactly what we cover inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+If you want to go deeper on building systems with Claude Code — not just plugins, but full agentic workflows, skills, and automation pipelines — that's exactly what we cover inside [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).

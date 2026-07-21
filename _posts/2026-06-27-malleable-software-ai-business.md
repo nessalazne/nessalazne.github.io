@@ -92,4 +92,4 @@ Start with the playbook. It'll walk you through auditing what you're currently u
 
 **[Download the free Malleable Software Playbook →](https://guides.digicuratoragency.com/guides/malleable-software-ai-business)**
 
-And if you're ready to build a full AI-powered business operating system from scratch, come join us at [Vibe Coding Mastery](https://builds.digicuratoragency.com/) — where we build exactly this, step by step.
+And if you're ready to build a full AI-powered business operating system from scratch, come join us at [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) — where we build exactly this, step by step.

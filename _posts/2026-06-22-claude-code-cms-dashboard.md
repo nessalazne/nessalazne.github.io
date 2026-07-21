@@ -99,4 +99,4 @@ A Claude Code CMS is not just a website editor. It is the layer that makes AI-bu
 
 Start simple: editable text, images, SEO, pages, previews, publishing, login access, and rollback. Add AI rewriting once the safe editing flow works. Then turn the system into a repeatable offer you can use across client builds.
 
-Ready to go deeper? Join [Vibe Coding Mastery](https://builds.digicuratoragency.com/) and learn how to build agentic AI systems like this from idea to deployed product.
+Ready to go deeper? Join [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) and learn how to build agentic AI systems like this from idea to deployed product.

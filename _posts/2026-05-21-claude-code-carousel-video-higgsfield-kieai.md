@@ -118,4 +118,4 @@ The free cheat sheet has the correct Higgsfield MCP install command, the Kie.ai 
 
 **[Download the free Carousel Video Creator Prompt Guide →](https://guides.digicuratoragency.com/guides/claude-code-carousel-video-higgsfield-kieai)**
 
-Ready to go further? [Vibe Coding Mastery](https://builds.digicuratoragency.com/) covers the full system — skills, automations, and weekly live builds with Claude Code.
+Ready to go further? [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) covers the full system — skills, automations, and weekly live builds with Claude Code.

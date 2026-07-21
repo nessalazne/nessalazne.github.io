@@ -165,7 +165,7 @@ The most profitable app you can build right now is not the flashiest one. It is 
 
 The system is the same every time: pick a proven app in a boring niche, screenshot every screen and hand it to Claude Code, mine the one-star reviews for your wedge, then build it in phases and make the agent prove each one. One focused tool, one real problem, shipped in a weekend. For the same approach on a bigger swing, see [how to build a million-dollar app with Claude Code](https://blog.digicuratoragency.com/build-1m-app-claude-code/).
 
-Ready to build systems you own instead of renting someone else's? That is exactly what we do inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/).
+Ready to build systems you own instead of renting someone else's? That is exactly what we do inside [Vibe Coding Mastery](https://hub.digicuratoragency.com/about).
 
 <script type="application/ld+json">
 {

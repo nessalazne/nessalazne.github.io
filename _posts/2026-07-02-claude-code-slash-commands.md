@@ -71,4 +71,4 @@ These seven are the highlight reel — but they're not the whole toolkit. In the
 
 You don't need to memorize all twelve today. Pick one — I'd start with `/loop`, because the moment you watch Claude run tests and fix its own failures on repeat while you sip your coffee, you'll never build the same way again. Then add the next one. Within a week these shortcuts become muscle memory, and Claude Code stops feeling like a chatbot and starts feeling like a team.
 
-If you want the complete system for building agentic AI workflows like this — the master prompts, the setups, and the step-by-step walkthroughs — come join us inside [Vibe Coding Mastery](https://builds.digicuratoragency.com/). It's where creators and entrepreneurs learn to build AI systems they actually own.
+If you want the complete system for building agentic AI workflows like this — the master prompts, the setups, and the step-by-step walkthroughs — come join us inside [Vibe Coding Mastery](https://hub.digicuratoragency.com/about). It's where creators and entrepreneurs learn to build AI systems they actually own.
