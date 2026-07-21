@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "app": [
+    {
+      title: "The Reverse-Engineer Playbook",
+      desc: "Turn a proven app's bad reviews into your build plan \u2014 worked on a real meal tracker",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/reverse-engineer-app-claude-code/"
+    }
+  ],
   "receipt": [
     {
       title: "The Boring App Build Playbook",
