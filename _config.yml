@@ -6,8 +6,15 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 url: 'https://blog.digicuratoragency.com'
+lang: en
 include: ["_pages"]
 permalink: /:title/
+
+# SEO (jekyll-seo-tag)
+author: nessa
+twitter:
+  username: nessalazne
+  card: summary_large_image
 
 # Authors
 authors:
@@ -17,7 +24,7 @@ authors:
     avatar: 'assets/images/avatar.png'
     email: ''
     web: 'https://builds.digicuratoragency.com/'
-    twitter: ''
+    twitter: 'nessalazne'
     description: "AI systems builder. Helping creators and marketers automate content with Claude."
 
 # Plugins
