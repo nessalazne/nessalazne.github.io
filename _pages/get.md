@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "builder": [
+    {
+      title: "The Full-App Builder Playbook",
+      desc: "The 4-step system to build a deployable app with Claude Code \u2014 auth, payments and dashboard, no developers needed.",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/build-full-app-claude-code/"
+    }
+  ],
   "app": [
     {
       title: "The Reverse-Engineer Playbook",
