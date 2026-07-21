@@ -106,4 +106,4 @@ Watch the full video walkthrough above and grab the free guide below for the com
 
 Comment **CLONE** on the YouTube video and I'll send it straight to you.
 
-Want to go even further? Check out the [Vibe Coding Mastery](https://builds.digicuratoragency.com/youtube-repurposer/) system for the full toolkit to build and launch AI-powered tools — without a dev team.
+Want to go even further? Check out the [Vibe Coding Mastery](https://hub.digicuratoragency.com/about) system for the full toolkit to build and launch AI-powered tools — without a dev team.
