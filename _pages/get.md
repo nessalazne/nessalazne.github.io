@@ -192,6 +192,12 @@ var GUIDES = {
   ],
   "app": [
     {
+      title: "The Zero-Code App Launch Playbook",
+      desc: "Your 5-step playbook to go from idea to a live app in hours with Claude Code and Railway \u2014 no dev team, no code.",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/claude-code-railway-live-app/"
+    },
+    {
       title: "The Reverse-Engineer Playbook",
       desc: "Turn a proven app's bad reviews into your build plan \u2014 worked on a real meal tracker",
       url: "https://hub.digicuratoragency.com/welcome",
