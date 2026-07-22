@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "apps": [
+    {
+      title: "The Niche App Playbook",
+      desc: "Your 3-Phase Guide to Turning a Free Tool's Gap Into a Focused App People Pay For",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/simple-niche-apps-40k-month/"
+    }
+  ],
   "builder": [
     {
       title: "The Full-App Builder Playbook",
