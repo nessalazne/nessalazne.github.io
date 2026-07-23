@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "director": [
+    {
+      title: "The Vibe Directing Playbook",
+      desc: "Your Step-by-Step Guide to Building Full AI Films From One Sentence",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/vibe-directing-openart-director-ai-video/"
+    }
+  ],
   "apps": [
     {
       title: "The Niche App Playbook",
