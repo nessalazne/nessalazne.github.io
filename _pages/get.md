@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "repurpose": [
+    {
+      title: "The Content Repurposing Playbook",
+      desc: "Turn One Video Into a Video, Blog Post, and Lead Magnet in Minutes",
+      url: "https://hub.digicuratoragency.com/welcome",
+      post: "https://blog.digicuratoragency.com/repurpose-content-automatically-video-blog-freebie/"
+    }
+  ],
   "director": [
     {
       title: "The Vibe Directing Playbook",
