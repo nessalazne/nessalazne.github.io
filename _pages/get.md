@@ -174,11 +174,19 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "design": [
+    {
+      title: "The AI App Design Playbook",
+      desc: "Your System for Turning a Generic AI App Into One Users Open Daily",
+      url: "https://hub.digicuratoragency.com/freebie?kw=design",
+      post: "https://blog.digicuratoragency.com/ai-app-design-conversion-system/"
+    }
+  ],
   "repurpose": [
     {
       title: "The Content Repurposing Playbook",
       desc: "Turn One Video Into a Video, Blog Post, and Lead Magnet in Minutes",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=repurpose",
       post: "https://blog.digicuratoragency.com/repurpose-content-automatically-video-blog-freebie/"
     }
   ],
@@ -186,7 +194,7 @@ var GUIDES = {
     {
       title: "The Vibe Directing Playbook",
       desc: "Your Step-by-Step Guide to Building Full AI Films From One Sentence",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=director",
       post: "https://blog.digicuratoragency.com/vibe-directing-openart-director-ai-video/"
     }
   ],
@@ -194,7 +202,7 @@ var GUIDES = {
     {
       title: "The Niche App Playbook",
       desc: "Your 3-Phase Guide to Turning a Free Tool's Gap Into a Focused App People Pay For",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=apps",
       post: "https://blog.digicuratoragency.com/simple-niche-apps-40k-month/"
     }
   ],
@@ -202,7 +210,7 @@ var GUIDES = {
     {
       title: "The Full-App Builder Playbook",
       desc: "The 4-step system to build a deployable app with Claude Code \u2014 auth, payments and dashboard, no developers needed.",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=builder",
       post: "https://blog.digicuratoragency.com/build-full-app-claude-code/"
     }
   ],
@@ -210,13 +218,13 @@ var GUIDES = {
     {
       title: "The Zero-Code App Launch Playbook",
       desc: "Your 5-step playbook to go from idea to a live app in hours with Claude Code and Railway \u2014 no dev team, no code.",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=app",
       post: "https://blog.digicuratoragency.com/claude-code-railway-live-app/"
     },
     {
       title: "The Reverse-Engineer Playbook",
       desc: "Turn a proven app's bad reviews into your build plan \u2014 worked on a real meal tracker",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=app",
       post: "https://blog.digicuratoragency.com/reverse-engineer-app-claude-code/"
     }
   ],
@@ -224,7 +232,7 @@ var GUIDES = {
     {
       title: "The Boring App Build Playbook",
       desc: "The screenshot prompt that makes Claude Code reverse-engineer a proven App Store app, the PRD it returns, and the phased build prompt — worked through on a $80K/month receipt tracker.",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=receipt",
       post: "https://blog.digicuratoragency.com/boring-apps-receipt-tracker-claude-code/"
     }
   ],
@@ -323,7 +331,7 @@ var GUIDES = {
     {
       title: "Claude Code Beginner's Playbook",
       desc: "Your No-Code Guide to Building Real Apps With Claude Code",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
       post: "https://blog.digicuratoragency.com/claude-code-for-non-developers/"
     },
     {
@@ -345,7 +353,7 @@ var GUIDES = {
     {
       title: "The App Idea Research Prompt Guide",
       desc: "Screenshot Any App, Get a Full Business Case: The Claude Reverse-Engineering Prompt + a Worked Example",
-      url: "https://hub.digicuratoragency.com/welcome",
+      url: "https://hub.digicuratoragency.com/freebie?kw=build",
       post: "https://blog.digicuratoragency.com/app-idea-research-claude/"
     },
     {
