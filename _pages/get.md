@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "hyperframes": [
+    {
+      title: "The HyperFrames Playbook",
+      desc: "Your Free Guide to Building Animated Explainer Videos Inside Claude",
+      url: "https://hub.digicuratoragency.com/freebie?kw=hyperframes",
+      post: "https://blog.digicuratoragency.com/hyperframes-free-animated-explainer-videos-claude/"
+    }
+  ],
   "design": [
     {
       title: "The AI App Design Playbook",
