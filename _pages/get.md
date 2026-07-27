@@ -359,6 +359,12 @@ var GUIDES = {
   ],
   "build": [
     {
+      title: "The Weekend App Playbook",
+      desc: "Your 3-Phase Guide to Shipping a Monetizable App Prototype in One Weekend",
+      url: "https://hub.digicuratoragency.com/freebie?kw=build",
+      post: "https://blog.digicuratoragency.com/build-app-prototype-weekend-no-coding/"
+    },
+    {
       title: "The App Idea Research Prompt Guide",
       desc: "Screenshot Any App, Get a Full Business Case: The Claude Reverse-Engineering Prompt + a Worked Example",
       url: "https://hub.digicuratoragency.com/freebie?kw=build",
