@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "vox": [
+    {
+      title: "The Vox Animation Playbook",
+      desc: "Your 3-Step Free System for Viral Archived-Photo Animations",
+      url: "https://hub.digicuratoragency.com/freebie?kw=vox",
+      post: "https://blog.digicuratoragency.com/vox-style-animations-free-ai/"
+    }
+  ],
   "hyperframes": [
     {
       title: "The HyperFrames Playbook",
