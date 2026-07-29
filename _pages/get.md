@@ -177,7 +177,7 @@ var GUIDES = {
   "vox": [
     {
       title: "The Vox Animation Playbook",
-      desc: "Your 3-Step Free System for Viral Archived-Photo Animations",
+      desc: "The Complete 10-State Engine for Free Documentary Paper-Collage Videos",
       url: "https://hub.digicuratoragency.com/freebie?kw=vox",
       post: "https://blog.digicuratoragency.com/vox-style-animations-free-ai/"
     }
