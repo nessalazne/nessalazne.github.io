@@ -393,6 +393,12 @@ var GUIDES = {
   ],
   "clone": [
     {
+      title: "The Website Cloning Playbook",
+      desc: "Clone any page with Claude + Ditto MCP, then make it yours in 4 steps",
+      url: "https://hub.digicuratoragency.com/freebie?kw=clone",
+      post: "https://blog.digicuratoragency.com/clone-any-website-claude-ditto-mcp/"
+    },
+    {
       title: "Clone Any $800K App in 15 Minutes",
       desc: "A 4-phase cheat sheet for cloning any SaaS app using Claude Code — no dev team, no coding background, and no $800K budget required.",
       url: "https://guides.digicuratoragency.com/guides/clone-800k-app-claude-code",
