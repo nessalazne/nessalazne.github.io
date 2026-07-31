@@ -345,6 +345,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The One-Prompt Full Stack App Playbook",
+      desc: "Your 4-Phase Guide to Shipping a Live App With Claude Code \u2014 Database, Login, and Deploy Included",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/full-stack-app-one-prompt-claude-code/"
+    },
+    {
       title: "Claude Code Beginner's Playbook",
       desc: "Your No-Code Guide to Building Real Apps With Claude Code",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
