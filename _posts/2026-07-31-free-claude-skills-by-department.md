@@ -17,7 +17,7 @@ Claude Skills are free markdown files that hand Claude specialized instructions 
 
 Get the full download list — every repo, every starter skill, and exactly how to customize each one for your business.
 
-**[Get the free Claude Skills Directory →](https://hub.digicuratoragency.com/freebie?kw=SKILLS)**
+**[Get the free Claude Skills Directory →](https://hub.digicuratoragency.com/freebie?kw=skills)**
 
 ---
 
@@ -67,7 +67,7 @@ You don't have to write any of this by hand. Open Claude Code, point it at the `
 
 Most people download a skill pack, run it once out of the box, and conclude it's "generic." An uncustomized skill behaves exactly like a new hire on day one — technically capable, but blind to your brand voice, your numbers, and your risk tolerance. The gap between a skill that feels generic and one that feels like it's read every document in your business is almost always five or ten minutes of customization, not a better skill pack.
 
-For the full download list and a customization checklist per department, [grab the free guide](https://hub.digicuratoragency.com/freebie?kw=SKILLS).
+For the full download list and a customization checklist per department, [grab the free guide](https://hub.digicuratoragency.com/freebie?kw=skills).
 
 ## Where Do You Find These Skill Packs?
 
