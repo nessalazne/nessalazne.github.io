@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "skills": [
+    {
+      title: "The Free Claude Skills Directory",
+      desc: "Every skill pack, repo, and customization tip for Marketing, Social, Design, Finance & Legal",
+      url: "https://hub.digicuratoragency.com/freebie?kw=skills",
+      post: "https://blog.digicuratoragency.com/free-claude-skills-by-department/"
+    }
+  ],
   "vox": [
     {
       title: "The Vox Animation Playbook",
