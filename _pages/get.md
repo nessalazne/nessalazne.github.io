@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "voice": [
+    {
+      title: "The VibeVoice Setup Playbook",
+      desc: "Clone Your Voice and Generate AI Audio for Free with Microsoft VibeVoice",
+      url: "https://hub.digicuratoragency.com/freebie?kw=voice",
+      post: "https://blog.digicuratoragency.com/microsoft-vibevoice-free-voice-cloning-ai/"
+    }
+  ],
   "skills": [
     {
       title: "The Free Claude Skills Directory",
