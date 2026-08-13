@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "local": [
+    {
+      title: "The Local Client Outreach Playbook",
+      desc: "Your 4-Prompt System to Land Local Business Clients Fast",
+      url: "https://hub.digicuratoragency.com/freebie?kw=local",
+      post: "https://blog.digicuratoragency.com/get-local-business-clients-ai/"
+    }
+  ],
   "voice": [
     {
       title: "The VibeVoice Setup Playbook",
