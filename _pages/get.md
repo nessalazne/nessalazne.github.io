@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "meta": [
+    {
+      title: "The Meta Ads AI Playbook",
+      desc: "Your 3-Phase Guide to Running Meta Ads With Claude Code",
+      url: "https://hub.digicuratoragency.com/freebie?kw=meta",
+      post: "https://blog.digicuratoragency.com/run-meta-ads-with-claude-code/"
+    }
+  ],
   "local": [
     {
       title: "The Local Client Outreach Playbook",
