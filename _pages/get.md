@@ -377,6 +377,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Ship-Your-App Cheat Sheet",
+      desc: "Your 5-Step System to Build, Deploy & Get Paid in Under 60 Seconds",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/ship-app-60-seconds-claude-code-railway/"
+    },
+    {
       title: "The One-Prompt Full Stack App Playbook",
       desc: "Your 4-Phase Guide to Shipping a Live App With Claude Code \u2014 Database, Login, and Deploy Included",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
