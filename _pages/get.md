@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "education": [
+    {
+      title: "Course Platform Playbook",
+      desc: "Your 3-Phase Guide to Owning Your Course Business (Not Renting Skool)",
+      url: "https://hub.digicuratoragency.com/freebie?kw=education",
+      post: "https://blog.digicuratoragency.com/replace-skool-own-ai-course-platform/"
+    }
+  ],
   "generate": [
     {
       title: "The Pay-As-You-Go AI Image Playbook",
