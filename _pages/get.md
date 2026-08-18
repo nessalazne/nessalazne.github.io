@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "generate": [
+    {
+      title: "The Pay-As-You-Go AI Image Playbook",
+      desc: "Cut AI image costs from 34 cents to 5 cents per generation with Claude Code",
+      url: "https://hub.digicuratoragency.com/freebie?kw=generate",
+      post: "https://blog.digicuratoragency.com/pay-as-you-go-ai-image-tools-claude-code/"
+    }
+  ],
   "meta": [
     {
       title: "The Meta Ads AI Playbook",
