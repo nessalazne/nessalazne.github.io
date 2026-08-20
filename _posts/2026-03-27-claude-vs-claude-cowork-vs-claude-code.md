@@ -4,7 +4,7 @@ title: "Claude vs Claude Cowork vs Claude Code: What's the Difference?"
 author: ness
 categories: [Claude Code, AI Tools, Antigravity]
 image: assets/images/claude-vs-claude-cowork-vs-claude-code-header.png
-featured: true
+featured: false
 ---
 
 {% include youtube-short.html id="g35kCFC0g6w" %}

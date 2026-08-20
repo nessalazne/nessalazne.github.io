@@ -4,7 +4,7 @@ title: "Claude Cowork Plugins: The Complete Setup Guide"
 author: ness
 categories: [Claude Code, AI Tools, AI Agents]
 image: assets/images/claude-cowork-plugins-header.png
-featured: true
+featured: false
 ---
 
 Most people using Claude Cowork don't know plugins exist. The ones who do are running circles around everyone else — with specialized AI workflows for sales, marketing, legal, finance, and more, all inside the Claude Desktop app. No coding required.

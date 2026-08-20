@@ -4,7 +4,7 @@ title: "Claude Code's Source Code Just Leaked — Here's The Hidden Blueprint"
 author: ness
 categories: [Claude Code, AI Tools, AI Agents]
 image: assets/images/claude-code-leaked-blueprint-header.jpg
-featured: true
+featured: false
 ---
 
 Anthropic accidentally gave away the entire blueprint behind one of the most powerful AI tools ever built. Not a teaser. Not a blog post. The actual production source code behind Claude Code — over 512,000 lines of it — leaked to the public internet. And within hours, thousands of developers had already torn it apart.

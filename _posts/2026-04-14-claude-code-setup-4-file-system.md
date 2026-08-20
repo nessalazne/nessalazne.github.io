@@ -4,7 +4,7 @@ title: "Claude Code Setup: The 4-File System That Changes Everything"
 author: ness
 categories: [Claude Code, AI Automation, Vibe Coding]
 image: assets/images/claude-code-setup-4-file-system-header.png
-featured: true
+featured: false
 ---
 
 Most people using Claude Code are running it completely naked — no context, no memory, no instructions. Just typing requests and hoping for the best. That's why it feels inconsistent. You're not using a broken tool. You're missing the 4-file system that makes it actually work.
