@@ -310,6 +310,12 @@ var GUIDES = {
   ],
   "prompt": [
     {
+      title: "The Prompt Master Setup Playbook",
+      desc: "Your 1-minute guide to installing the free Claude skill that stops wasted messages",
+      url: "https://hub.digicuratoragency.com/freebie?kw=prompt",
+      post: "https://blog.digicuratoragency.com/prompt-master-claude-skill/"
+    },
+    {
       title: "How to Actually Prompt Fable 5",
       desc: "Anthropic's field guide to Fable 5 — effort levels, the verification prompt that stops it faking progress, and the memory + sub-agent setups that make it reliable on long runs.",
       url: "https://guides.digicuratoragency.com/guides/fable-5-prompting-guide",
