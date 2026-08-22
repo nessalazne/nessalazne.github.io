@@ -399,6 +399,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Solo AI Business Stack",
+      desc: "Your 3-Part Guide to Running a Business Solo With Claude Code",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/run-business-solo-claude-code/"
+    },
+    {
       title: "The Ship-Your-App Cheat Sheet",
       desc: "Your 5-Step System to Build, Deploy & Get Paid in Under 60 Seconds",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
