@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "scrape": [
+    {
+      title: "The Claude Lead Scraper Playbook",
+      desc: "Install ScrapeGraphAI in Claude Code and scrape free leads into a spreadsheet on autopilot",
+      url: "https://hub.digicuratoragency.com/freebie?kw=scrape",
+      post: "https://blog.digicuratoragency.com/scrape-free-leads-claude-scrapegraphai/"
+    }
+  ],
   "tbc": [
     {
       title: "The One-Link Shorts System",
