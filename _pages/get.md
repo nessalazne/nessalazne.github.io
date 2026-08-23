@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "tbc": [
+    {
+      title: "The One-Link Shorts System",
+      desc: "Turn one link into a finished, captioned short without re-recording a single take",
+      url: "https://hub.digicuratoragency.com/freebie?kw=tbc",
+      post: "https://blog.digicuratoragency.com/one-link-short-form-video-studio/"
+    }
+  ],
   "education": [
     {
       title: "Course Platform Playbook",
