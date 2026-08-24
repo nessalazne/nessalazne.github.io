@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "motion": [
+    {
+      title: "The Motion Playbook",
+      desc: "4 Claude Code Skills for Remotion Motion Graphics That Don't Look Like Slop",
+      url: "https://hub.digicuratoragency.com/freebie?kw=motion",
+      post: "https://blog.digicuratoragency.com/ai-motion-graphics-skills-remotion-claude-code/"
+    }
+  ],
   "scrape": [
     {
       title: "The Claude Lead Scraper Playbook",
