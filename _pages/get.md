@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "gate": [
+    {
+      title: "The AI Video Approval Gate Playbook",
+      desc: "A Step-by-Step Guide to Stop Wasting Money on AI Video",
+      url: "https://hub.digicuratoragency.com/freebie?kw=gate",
+      post: "https://blog.digicuratoragency.com/why-creators-waste-money-ai-video/"
+    }
+  ],
   "stack": [
     {
       title: "The G-Stack Playbook",
