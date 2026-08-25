@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "rank": [
+    {
+      title: "The Claude SEO + AI Search Playbook",
+      desc: "Audit your site, score your AI search readiness, and fix what's holding you back, free",
+      url: "https://hub.digicuratoragency.com/freebie?kw=rank",
+      post: "https://blog.digicuratoragency.com/free-claude-seo-skill-ai-search-ranking/"
+    }
+  ],
   "gate": [
     {
       title: "The AI Video Approval Gate Playbook",
