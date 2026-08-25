@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "stack": [
+    {
+      title: "The G-Stack Playbook",
+      desc: "Set Up a 23-Tool Claude Code Ops Team Like Garry Tan's",
+      url: "https://hub.digicuratoragency.com/freebie?kw=stack",
+      post: "https://blog.digicuratoragency.com/garry-tan-claude-code-g-stack/"
+    }
+  ],
   "motion": [
     {
       title: "The Motion Playbook",
