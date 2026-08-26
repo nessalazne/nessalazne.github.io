@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "markitdown": [
+    {
+      title: "The Markitdown Setup Guide",
+      desc: "Cut your Claude PDF token bill in half with Microsoft's free markdown converter",
+      url: "https://hub.digicuratoragency.com/freebie?kw=markitdown",
+      post: "https://blog.digicuratoragency.com/markitdown-claude-pdf-tokens/"
+    }
+  ],
   "rank": [
     {
       title: "The Claude SEO + AI Search Playbook",
