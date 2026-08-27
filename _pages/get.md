@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "graph": [
+    {
+      title: "The Graphify Setup Guide",
+      desc: "Install Graphify, map your project once, and stop Claude Code from burning usage relearning your codebase every session.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=graph",
+      post: "https://blog.digicuratoragency.com/graphify-claude-code-project-map/"
+    }
+  ],
   "markitdown": [
     {
       title: "The Markitdown Setup Guide",
