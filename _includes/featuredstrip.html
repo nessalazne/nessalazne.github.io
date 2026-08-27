@@ -3,7 +3,7 @@
 <div class="col-md-4 mb-30px">
     <div class="featured-strip-card h-100">
         <div class="featured-strip-thumb">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ site.baseurl }}{{ post.url }}" target="_blank" rel="noopener">
                 {% if site.lazyimages == "enabled" %}
                 <img class="featured-strip-img lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
                 {% else %}
@@ -14,7 +14,7 @@
         </div>
         <div class="featured-strip-body">
             <h3 class="featured-strip-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}" target="_blank" rel="noopener">{{ post.title }}</a>
             </h3>
             <div class="featured-strip-meta">
                 {% if author.avatar %}

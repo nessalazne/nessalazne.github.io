@@ -27,6 +27,45 @@ authors:
     twitter: 'nessalazne'
     description: "AI systems builder. Helping creators and marketers automate content with Claude."
 
+# Follow page (/follow/). Order here is the order shown on the page.
+socials:
+  - name: YouTube
+    handle: '@nessalazne'
+    url: 'https://www.youtube.com/@nessalazne'
+    blurb: 'Long-form builds and full walkthroughs.'
+    color: '#FF0000'
+    icon: youtube
+  - name: Instagram
+    handle: '@aisocial_hub'
+    url: 'https://www.instagram.com/aisocial_hub'
+    blurb: 'Daily reels on AI systems and automation.'
+    color: '#E1306C'
+    icon: instagram
+  - name: TikTok
+    handle: '@nessalazne'
+    url: 'https://www.tiktok.com/@nessalazne'
+    blurb: 'Short, fast AI workflow demos.'
+    color: '#111111'
+    icon: tiktok
+  - name: LinkedIn
+    handle: 'Ness Alazne'
+    url: 'https://www.linkedin.com/in/nessalazne/'
+    blurb: 'How I build AI systems for creators and marketers.'
+    color: '#0A66C2'
+    icon: linkedin
+  - name: Substack
+    handle: '@nessalazne'
+    url: 'https://substack.com/@nessalazne'
+    blurb: 'Deep dives, straight to your inbox.'
+    color: '#FF6719'
+    icon: substack
+  - name: Facebook
+    handle: 'followness'
+    url: 'https://www.facebook.com/followness'
+    blurb: 'Community, updates and behind the scenes.'
+    color: '#1877F2'
+    icon: facebook
+
 # Plugins
 plugins:
   - jekyll-paginate
