@@ -62,8 +62,8 @@ permalink: /follow/
 .follow-hero {
   text-align: center;
   padding: 2.25rem 1.5rem 1.75rem;
-  background: #f8fffe;
-  border: 1px solid #d4f0e5;
+  background: #deb4b4;
+  border: 1px solid #d0a0a0;
   border-radius: 10px;
   margin-bottom: 1.5rem;
 }
@@ -84,16 +84,20 @@ permalink: /follow/
 }
 .follow-bio {
   font-size: 1rem;
-  color: #555;
+  color: #3d2e2e;
   margin: 0 auto 0.9rem;
-  max-width: 26rem;
-  line-height: 1.5;
+  max-width: 30rem;
+  line-height: 1.55;
+  text-align: center;
+  text-wrap: balance;
 }
 .follow-prompt {
   font-size: 0.95rem;
-  color: #00ab6b;
+  color: #6b2f2f;
   font-weight: 600;
   margin: 0;
+  text-align: center;
+  text-wrap: balance;
 }
 .follow-list {
   display: flex;
