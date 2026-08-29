@@ -3,3 +3,10 @@ _site
 *.swp
 .sass-cache
 *~
+
+# FreebiePDF build intermediates — only the .pdf is published.
+# The .json (content blocks) and .html (print-styled source) are inputs to
+# generate_pdf_v2.py, and *-preview.png thumbnails are unreferenced by the site.
+assets/pdfs/*.json
+assets/pdfs/*.html
+assets/pdfs/*-preview.png
