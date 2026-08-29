@@ -463,6 +463,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Weekend Claude Build Guide",
+      desc: "Five no-code Claude systems with the exact project instructions, prompts, and fixes to build them in one weekend.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/5-claude-ai-systems-weekend-no-code/"
+    },
+    {
       title: "The Solo AI Business Stack",
       desc: "Your 3-Part Guide to Running a Business Solo With Claude Code",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
