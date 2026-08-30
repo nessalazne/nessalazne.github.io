@@ -174,6 +174,21 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "mcp": [
+    {
+      title: "4 MCPs Setup Guide for Claude Code",
+      desc: "The exact commands, API keys, and fixes to install Perplexity, Firecrawl, Playwright, and Context7.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=mcp",
+      post: "https://blog.digicuratoragency.com/4-mcps-make-claude-useful/"
+    }
+  ],
+  "blocks": [
+    {
+      title: "47 Blocks to Ship a Real App with AI",
+      desc: "The building blocks vibe coders skip. 28-page PDF.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=blocks"
+    }
+  ],
   "graph": [
     {
       title: "The Graphify Setup Guide",
