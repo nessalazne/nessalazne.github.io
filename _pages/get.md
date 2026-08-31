@@ -319,6 +319,12 @@ var GUIDES = {
   ],
   "design": [
     {
+      title: "The AI Design System File Playbook",
+      desc: "Save one DESIGN.md file as a skill so Claude and ChatGPT build every site with your typography, spacing, and colors already loaded.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=design",
+      post: "https://blog.digicuratoragency.com/ai-design-system-file/"
+    },
+    {
       title: "The AI App Design Playbook",
       desc: "Your System for Turning a Generic AI App Into One Users Open Daily",
       url: "https://hub.digicuratoragency.com/freebie?kw=design",
