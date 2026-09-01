@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "montage": [
+    {
+      title: "Open Montage Setup Guide",
+      desc: "Install the free AI video pipeline, run your first render with zero API keys, and fix the common errors.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=montage",
+      post: "https://blog.digicuratoragency.com/open-montage-free-ai-video-tool/"
+    }
+  ],
   "mcp": [
     {
       title: "4 MCPs Setup Guide for Claude Code",
