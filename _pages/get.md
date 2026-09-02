@@ -433,6 +433,12 @@ var GUIDES = {
   ],
   "fable": [
     {
+      title: "Claude Fable 5.1 Workflow Breakdown",
+      desc: "How to actually run long, unattended Claude Code sessions now that the model holds focus and costs less to do it.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=fable",
+      post: "https://blog.digicuratoragency.com/claude-fable-5-1-cheaper-at-scale/"
+    },
+    {
       title: "Fable vs Opus: The 4 App-Build Test Prompts",
       desc: "The exact 4 prompts used to test Claude Fable 5 against Opus — one per app (quiz app, booking app, landing page, simulation game) so you can run the same head-to-head yourself.",
       url: "https://guides.digicuratoragency.com/guides/claude-fable-vs-opus",
