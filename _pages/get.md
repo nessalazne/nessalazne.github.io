@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "batch": [
+    {
+      title: "The Batch Talking Head System",
+      desc: "The four-stage setup for making ten AI talking head videos in one sitting, without a camera.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=batch",
+      post: "https://blog.digicuratoragency.com/batch-ai-talking-head-videos/"
+    }
+  ],
   "montage": [
     {
       title: "Open Montage Setup Guide",
