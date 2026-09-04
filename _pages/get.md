@@ -506,6 +506,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The LinkedIn OS Setup Guide",
+      desc: "Install 11 free Claude skills that draft your LinkedIn posts, comments and replies, and wait for your approval before anything goes out.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/free-linkedin-os-claude-skills/"
+    },
+    {
       title: "The Weekend Claude Build Guide",
       desc: "Five no-code Claude systems with the exact project instructions, prompts, and fixes to build them in one weekend.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
