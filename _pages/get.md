@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "plugins": [
+    {
+      title: "Four Claude Code Plugins Guide",
+      desc: "Install Ponytail, OmniRoute, Graphify, and Agent Skills and cut your Claude Code token usage, with every command and config file.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=plugins",
+      post: "https://blog.digicuratoragency.com/four-claude-code-plugins-cut-token-usage/"
+    }
+  ],
   "batch": [
     {
       title: "The Batch Talking Head System",
