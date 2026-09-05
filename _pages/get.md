@@ -357,6 +357,12 @@ var GUIDES = {
   ],
   "repurpose": [
     {
+      title: "The Repurpose System Playbook",
+      desc: "How one source video becomes a short, an SEO blog post, and a lead magnet, and how to run the pipeline yourself.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=repurpose",
+      post: "https://blog.digicuratoragency.com/repurpose-one-video-three-assets/"
+    },
+    {
       title: "The Content Repurposing Playbook",
       desc: "Turn One Video Into a Video, Blog Post, and Lead Magnet in Minutes",
       url: "https://hub.digicuratoragency.com/freebie?kw=repurpose",
