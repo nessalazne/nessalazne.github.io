@@ -417,6 +417,12 @@ var GUIDES = {
   ],
   "prompts": [
     {
+      title: "prompts.chat MCP Setup Guide",
+      desc: "Connect the 10,000-prompt open-source library to Claude Code so your agent finds the right prompt instead of you.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=prompts",
+      post: "https://blog.digicuratoragency.com/prompts-chat-free-prompt-library-claude-code-mcp/"
+    },
+    {
       title: "How to Actually Prompt Fable 5",
       desc: "Anthropic's field guide to Fable 5 — effort levels, the verification prompt that stops it faking progress, and the memory + sub-agent setups that make it reliable on long runs.",
       url: "https://guides.digicuratoragency.com/guides/fable-5-prompting-guide",
