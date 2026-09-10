@@ -526,6 +526,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The ECC Install Guide",
+      desc: "How to install ECC into Claude Code or Codex without breaking your setup: the command, the scopes, the rules folders, and the fixes.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/ecc-claude-code-repo-agents-skills/"
+    },
+    {
       title: "The LinkedIn OS Setup Guide",
       desc: "Install 11 free Claude skills that draft your LinkedIn posts, comments and replies, and wait for your approval before anything goes out.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
