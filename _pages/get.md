@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "engage": [
+    {
+      title: "The Engagement Rate Playbook",
+      desc: "A step-by-step system for spotting your best-performing posts and turning that pattern into a repeatable content system with Claude Code.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=engage",
+      post: "https://blog.digicuratoragency.com/engagement-rate-ai-content-playbook/"
+    }
+  ],
   "plugins": [
     {
       title: "Four Claude Code Plugins Guide",
