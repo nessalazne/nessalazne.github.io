@@ -469,6 +469,12 @@ var GUIDES = {
   ],
   "fable": [
     {
+      title: "The Claude Fable 5.1 System Prompt Study Guide",
+      desc: "Clone the leaked 8,000-line Anthropic prompt, read it in Claude Code without blowing your context, and pull out the tool rules for your own skills.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=fable",
+      post: "https://blog.digicuratoragency.com/claude-fable-5-1-system-prompt-leak/"
+    },
+    {
       title: "Claude Fable 5.1 Workflow Breakdown",
       desc: "How to actually run long, unattended Claude Code sessions now that the model holds focus and costs less to do it.",
       url: "https://hub.digicuratoragency.com/freebie?kw=fable",
