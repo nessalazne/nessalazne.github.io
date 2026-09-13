@@ -184,6 +184,12 @@ var GUIDES = {
   ],
   "plugins": [
     {
+      title: "4 Free Claude Plugins Setup Guide",
+      desc: "Install Impeccable, 21st MCP, Humanizer, and Claude Code Setup in Claude Code or Codex, with the commands I run and a fix table for the first-run errors.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=plugins",
+      post: "https://blog.digicuratoragency.com/four-free-claude-plugins-fix-generic-ai-output/"
+    },
+    {
       title: "Four Claude Code Plugins Guide",
       desc: "Install Ponytail, OmniRoute, Graphify, and Agent Skills and cut your Claude Code token usage, with every command and config file.",
       url: "https://hub.digicuratoragency.com/freebie?kw=plugins",
