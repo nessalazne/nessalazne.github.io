@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "scraper": [
+    {
+      title: "Google Maps Scraper Kit: The Full Setup Guide",
+      desc: "Run a free, open-source Google Maps scraper on your own computer and let Claude Code pull local leads for you, no subscription, no data cap.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=scraper",
+      post: "https://blog.digicuratoragency.com/google-maps-scraper-kit-claude-code/"
+    }
+  ],
   "orca": [
     {
       title: "The Orca Setup Guide",
