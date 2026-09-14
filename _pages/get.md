@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "orca": [
+    {
+      title: "The Orca Setup Guide",
+      desc: "How to install Orca and run every Claude Code and Codex subscription you own from one workspace.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=orca",
+      post: "https://blog.digicuratoragency.com/orca-free-ai-agent-manager-claude-codex/"
+    }
+  ],
   "engage": [
     {
       title: "The Engagement Rate Playbook",
