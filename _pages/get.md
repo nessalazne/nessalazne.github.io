@@ -200,6 +200,12 @@ var GUIDES = {
   ],
   "plugins": [
     {
+      title: "5 Claude Code Plugins You Need to Install Right Now",
+      desc: "The exact install commands and config for Claude Code Setup, OmniRoute, Find Skills, Strix, and Agent Reach, so you can set them up in one sitting.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=plugins",
+      post: "https://blog.digicuratoragency.com/5-claude-code-plugins-install-right-now/"
+    },
+    {
       title: "4 Free Claude Plugins Setup Guide",
       desc: "Install Impeccable, 21st MCP, Humanizer, and Claude Code Setup in Claude Code or Codex, with the commands I run and a fix table for the first-run errors.",
       url: "https://hub.digicuratoragency.com/freebie?kw=plugins",
