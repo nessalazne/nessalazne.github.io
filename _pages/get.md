@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "avatar": [
+    {
+      title: "The Niche Account Growth Playbook",
+      desc: "The three-step Claude Code research system I run before I write a single post for a niche service account.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=avatar",
+      post: "https://blog.digicuratoragency.com/grow-niche-account-100k-ai/"
+    }
+  ],
   "scraper": [
     {
       title: "Google Maps Scraper Kit: The Full Setup Guide",
