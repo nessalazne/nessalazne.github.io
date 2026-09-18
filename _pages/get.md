@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "linkedin": [
+    {
+      title: "Claude LinkedIn Agent Skill Setup Guide",
+      desc: "Install 11 free Claude skills that draft your LinkedIn posts, comments, and replies, then run a local humanizer that scores your draft against five AI detection checks.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=linkedin",
+      post: "https://blog.digicuratoragency.com/claude-linkedin-agent-skill/"
+    }
+  ],
   "avatar": [
     {
       title: "The Niche Account Growth Playbook",
