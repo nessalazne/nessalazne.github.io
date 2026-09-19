@@ -75,17 +75,17 @@ A few structural issues, like rule-of-three lists, one-word rhetorical questions
 
 ## How do you install the Claude LinkedIn Agent Skill?
 
-There are three ways to get the skill folder into Claude, listed in the repo's README at [github.com/Jakeschincariol/linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill):
+There are three ways to get the skill folder into Claude, listed in the repo's README at [github.com/nessalazne/linkedin-agent-skill](https://github.com/nessalazne/linkedin-agent-skill):
 
 1. **Paste the repo URL into Claude** and ask it to install the skill, then confirm `/li-post` works.
 2. **Clone it manually** and copy the skill folders into your skills directory:
    ```bash
-   git clone https://github.com/Jakeschincariol/linkedin-agent-skill.git
+   git clone https://github.com/nessalazne/linkedin-agent-skill.git
    cp -r linkedin-agent-skill/skills/li-* ~/.claude/skills/
    ```
 3. **Install it as a plugin**:
    ```
-   /plugin marketplace add Jakeschincariol/linkedin-agent-skill
+   /plugin marketplace add nessalazne/linkedin-agent-skill
    /plugin install linkedin-agent
    ```
 
