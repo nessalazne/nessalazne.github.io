@@ -584,6 +584,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The 3 Claude Connectors Setup Playbook",
+      desc: "The exact commands to give Claude live research, web scraping, and browser control with Perplexity, Firecrawl, and Playwright.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/3-claude-connectors-full-ai-system/"
+    },
+    {
       title: "The ECC Install Guide",
       desc: "How to install ECC into Claude Code or Codex without breaking your setup: the command, the scopes, the rules folders, and the fixes.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
