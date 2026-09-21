@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "jarvis": [
+    {
+      title: "Build Your Own JARVIS Voice Assistant",
+      desc: "The full setup for a free, open source voice assistant that runs on your Claude Code subscription, no API keys required.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=jarvis",
+      post: "https://blog.digicuratoragency.com/jarvis-voice-assistant-claude-code/"
+    }
+  ],
   "linkedin": [
     {
       title: "Claude LinkedIn Agent Skill Setup Guide",
