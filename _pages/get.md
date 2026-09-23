@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "agent": [
+    {
+      title: "The YouTube Agent Skill Setup Playbook",
+      desc: "How I install all 12 skills, fill in the voice profile every one of them reads, and run the first six commands.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=agent",
+      post: "https://blog.digicuratoragency.com/claude-youtube-agent-skill/"
+    }
+  ],
   "jarvis": [
     {
       title: "Build Your Own JARVIS Voice Assistant",
