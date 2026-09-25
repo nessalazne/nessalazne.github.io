@@ -268,6 +268,12 @@ var GUIDES = {
   ],
   "mcp": [
     {
+      title: "The 4 MCPs That Finish a Claude Code or Codex Build",
+      desc: "How context.dev, Chrome DevTools MCP, Supabase MCP, and Vercel MCP take a build from a chat prompt to a live, tested app.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=mcp",
+      post: "https://blog.digicuratoragency.com/4-mcps-claude-codex-build-workflow/"
+    },
+    {
       title: "4 MCPs Setup Guide for Claude Code",
       desc: "The exact commands, API keys, and fixes to install Perplexity, Firecrawl, Playwright, and Context7.",
       url: "https://hub.digicuratoragency.com/freebie?kw=mcp",
