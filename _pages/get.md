@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "opus": [
+    {
+      title: "The Opus 5.5 Prompt Fix Guide",
+      desc: "The four prompt habits Claude Opus 5.5 quietly broke, and the exact lines to fix them, word for word.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=opus",
+      post: "https://blog.digicuratoragency.com/claude-opus-5-5-prompt-changes/"
+    }
+  ],
   "agent": [
     {
       title: "The YouTube Agent Skill Setup Playbook",
