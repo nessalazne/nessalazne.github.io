@@ -606,6 +606,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Claude Opus 5.5 Usage Limit Fix",
+      desc: "The exact claude.md config that stops Claude Opus 5.5 from burning your heaviest model on tasks that never needed it.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/claude-opus-5-5-usage-limits-claude-md-config/"
+    },
+    {
       title: "The 3 Claude Connectors Setup Playbook",
       desc: "The exact commands to give Claude live research, web scraping, and browser control with Perplexity, Firecrawl, and Playwright.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
