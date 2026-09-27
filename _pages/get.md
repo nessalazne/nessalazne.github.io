@@ -345,6 +345,12 @@ var GUIDES = {
   ],
   "scrape": [
     {
+      title: "The Agent Reach Setup Guide",
+      desc: "Install the free, open-source CLI that gives Claude Code or Codex real access to LinkedIn, YouTube, Reddit, X and any web page, with no scraping subscription.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=scrape",
+      post: "https://blog.digicuratoragency.com/agent-reach-free-ai-web-scraping-claude/"
+    },
+    {
       title: "The Claude Lead Scraper Playbook",
       desc: "Install ScrapeGraphAI in Claude Code and scrape free leads into a spreadsheet on autopilot",
       url: "https://hub.digicuratoragency.com/freebie?kw=scrape",
