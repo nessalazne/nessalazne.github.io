@@ -407,6 +407,12 @@ var GUIDES = {
   ],
   "skills": [
     {
+      title: "Claude Skill Packs Setup Guide",
+      desc: "Every download link for the five free Claude skill packs, the install commands, and the prompt that makes them write like your business instead of a generic one.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=skills",
+      post: "https://blog.digicuratoragency.com/claude-skill-packs-every-department/"
+    },
+    {
       title: "The Free Claude Skills Directory",
       desc: "Every skill pack, repo, and customization tip for Marketing, Social, Design, Finance & Legal",
       url: "https://hub.digicuratoragency.com/freebie?kw=skills",
