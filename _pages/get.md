@@ -184,6 +184,12 @@ var GUIDES = {
   ],
   "agent": [
     {
+      title: "Instagram Agent Skill Setup Playbook",
+      desc: "The full walkthrough for installing the 16-skill Claude Instagram Agent Skill, filling in your voice profile, and running the two skills that need API keys.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=agent",
+      post: "https://blog.digicuratoragency.com/claude-instagram-agent-skill/"
+    },
+    {
       title: "The YouTube Agent Skill Setup Playbook",
       desc: "How I install all 12 skills, fill in the voice profile every one of them reads, and run the first six commands.",
       url: "https://hub.digicuratoragency.com/freebie?kw=agent",
