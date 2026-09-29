@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "site": [
+    {
+      title: "Website-First Outreach Setup",
+      desc: "Set up the Claude skill that finds local businesses with dated websites, builds each one a replacement, and delivers it through their own contact form.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=site",
+      post: "https://blog.digicuratoragency.com/local-business-outreach-claude-website/"
+    }
+  ],
   "opus": [
     {
       title: "The Opus 5.5 Prompt Fix Guide",
