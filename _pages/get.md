@@ -451,6 +451,12 @@ var GUIDES = {
   ],
   "design": [
     {
+      title: "5 Free Tools That Turn Claude Into an AI Designer",
+      desc: "The install commands, setup steps, and first test for Taste, Impeccable, Playwright CLI, Awesome Design Skills, and img2threejs.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=design",
+      post: "https://blog.digicuratoragency.com/5-free-tools-claude-ai-designer/"
+    },
+    {
       title: "The AI Design System File Playbook",
       desc: "Save one DESIGN.md file as a skill so Claude and ChatGPT build every site with your typography, spacing, and colors already loaded.",
       url: "https://hub.digicuratoragency.com/freebie?kw=design",
