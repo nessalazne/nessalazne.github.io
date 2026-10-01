@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "agents": [
+    {
+      title: "The AI Agent Breakdown: LLM Brain vs. Harness System",
+      desc: "A real walkthrough of the two parts inside every AI agent and how to read your own setup like an engineer.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=agents",
+      post: "https://blog.digicuratoragency.com/ai-agents-llm-brain-harness-system/"
+    }
+  ],
   "site": [
     {
       title: "Website-First Outreach Setup",
