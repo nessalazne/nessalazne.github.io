@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "free": [
+    {
+      title: "The Free LLM API Playbook",
+      desc: "The 16 permanent free providers, the gateway that connects them to Claude Code, and the exact settings that keep a session alive when your limit hits.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=free",
+      post: "https://blog.digicuratoragency.com/free-llm-apis-claude-code-no-usage-limits/"
+    }
+  ],
   "jev": [
     {
       title: "Jev + Claude Router Playbook",
