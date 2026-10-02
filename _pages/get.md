@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "jev": [
+    {
+      title: "Jev + Claude Router Playbook",
+      desc: "Set up the two-model router that sends cheap decisions to Jev and only the hard cases to Claude.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=jev",
+      post: "https://blog.digicuratoragency.com/jev-cut-ai-token-costs-70-percent/"
+    }
+  ],
   "agents": [
     {
       title: "The AI Agent Breakdown: LLM Brain vs. Harness System",
