@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "ltx": [
+    {
+      title: "LTX-2.5 Local Video Generator",
+      desc: "Install the open-source LTX-2.5 video model on your own machine and generate multishot clips for free.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=ltx",
+      post: "https://blog.digicuratoragency.com/ltx-2-5-free-local-ai-video-model/"
+    }
+  ],
   "free": [
     {
       title: "The Free LLM API Playbook",
