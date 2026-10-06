@@ -646,6 +646,12 @@ var GUIDES = {
   ],
   "research": [
     {
+      title: "The Viral Video Breakdown System",
+      desc: "The exact prompts I use to pull the hook, storytelling, and visual layout out of any video, then spot the trend across several of them.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=research",
+      post: "https://blog.digicuratoragency.com/reverse-engineer-viral-videos-ai/"
+    },
+    {
       title: "Claude + NotebookLM Research Guide",
       desc: "A step-by-step setup guide for pairing Claude Code with NotebookLM for deep research workflows.",
       url: "https://guides.digicuratoragency.com/guides/claude-notebooklm-research",
