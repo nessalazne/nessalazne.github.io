@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "finance": [
+    {
+      title: "3 Claude Finance Agents, Set Up Right",
+      desc: "The exact install steps and commands for the Market Researcher, Model Builder, and Earnings Reviewer agents from Anthropic's financial-services repo.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=finance",
+      post: "https://blog.digicuratoragency.com/claude-finance-agents-stock-research/"
+    }
+  ],
   "ltx": [
     {
       title: "LTX-2.5 Local Video Generator",
