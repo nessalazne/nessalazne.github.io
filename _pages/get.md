@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "audit": [
+    {
+      title: "Cloudflare Security Audit Playbook",
+      desc: "Install Cloudflare's free security audit skill in Claude Code or Codex, run your first audit, and understand the report it writes.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=audit",
+      post: "https://blog.digicuratoragency.com/cloudflare-security-audit-skill-free/"
+    }
+  ],
   "finance": [
     {
       title: "3 Claude Finance Agents, Set Up Right",
