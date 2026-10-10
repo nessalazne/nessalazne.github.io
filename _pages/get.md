@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "gpt": [
+    {
+      title: "The ChatGPT Book Commands Playbook",
+      desc: "Four ChatGPT commands that turn any book into a mind map, sketchnotes, flashcards or a comic page, with copy-paste prompts for each.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=gpt",
+      post: "https://blog.digicuratoragency.com/chatgpt-commands-book-mind-map/"
+    }
+  ],
   "audit": [
     {
       title: "Cloudflare Security Audit Playbook",
