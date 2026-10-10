@@ -232,6 +232,12 @@ var GUIDES = {
   ],
   "opus": [
     {
+      title: "500+ Opus 5.5 Video Prompts: The Free Library Guide",
+      desc: "How to find, copy, and render a working Claude Opus 5.5 video prompt from a free 500+ prompt library instead of starting from a blank page.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=opus",
+      post: "https://blog.digicuratoragency.com/opus-5-5-viral-video-prompts-library/"
+    },
+    {
       title: "The Opus 5.5 Prompt Fix Guide",
       desc: "The four prompt habits Claude Opus 5.5 quietly broke, and the exact lines to fix them, word for word.",
       url: "https://hub.digicuratoragency.com/freebie?kw=opus",
