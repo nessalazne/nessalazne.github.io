@@ -192,6 +192,12 @@ var GUIDES = {
   ],
   "finance": [
     {
+      title: "The Faceless Channel System",
+      desc: "The five-stage AI pipeline behind a finance channel reportedly making $58K a month, with the full prompts for each stage.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=finance",
+      post: "https://blog.digicuratoragency.com/faceless-finance-channel-ai-system/"
+    },
+    {
       title: "3 Claude Finance Agents, Set Up Right",
       desc: "The exact install steps and commands for the Market Researcher, Model Builder, and Earnings Reviewer agents from Anthropic's financial-services repo.",
       url: "https://hub.digicuratoragency.com/freebie?kw=finance",
