@@ -177,7 +177,7 @@ var GUIDES = {
   "gpt": [
     {
       title: "The ChatGPT Book Commands Playbook",
-      desc: "Four ChatGPT commands that turn any book into a mind map, sketchnotes, flashcards or a comic page, with copy-paste prompts for each.",
+      desc: "100 ChatGPT codes to study any book, plus the four commands from the video: mind map, sketchnotes, flashcards and a comic page.",
       url: "https://hub.digicuratoragency.com/freebie?kw=gpt",
       post: "https://blog.digicuratoragency.com/chatgpt-commands-book-mind-map/"
     }

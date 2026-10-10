@@ -15,7 +15,7 @@ To turn a book into a mind map with ChatGPT, drop the book into the chat and typ
 
 ## Get the Free Guide
 
-The guide walks through all four commands, what each one is best at, and copy-paste prompts so you can run them on your next book.
+The guide covers all four commands with copy-paste prompts, plus 100 ChatGPT codes to study any book, from the Cindy Zhu guide it credits.
 
 **[Get the free ChatGPT Book Commands Playbook →](https://hub.digicuratoragency.com/freebie?kw=gpt)**
 
@@ -90,7 +90,7 @@ The /educationalcomics command turns the main idea of the book into a visual com
 
 Four commands, one book, and a format that fits how you learn. Start with /mindmap, add /flashcards for anything you need to remember, and keep /educationalcomics for the ideas you want to see.
 
-Want the copy-paste prompts for all four commands? [Grab the free guide](https://hub.digicuratoragency.com/freebie?kw=gpt). And if you want to build more systems like this, [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)
+Want the 100 codes and the copy-paste prompts? [Grab the free guide](https://hub.digicuratoragency.com/freebie?kw=gpt). And if you want to build more systems like this, [Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)
 
 <script type="application/ld+json">
 {
