@@ -720,6 +720,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Master Skills Setup Guide",
+      desc: "Install the four Claude master skills (Edit, Virality, Build, Publish) and run your first cut, script and post.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/claude-master-skills-1m-views/"
+    },
+    {
       title: "The Claude Opus 5.5 Usage Limit Fix",
       desc: "The exact claude.md config that stops Claude Opus 5.5 from burning your heaviest model on tasks that never needed it.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
