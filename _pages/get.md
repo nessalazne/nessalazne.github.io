@@ -720,6 +720,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "5 Free Claude Skills Content Team Install Guide",
+      desc: "The exact 5 free Claude Skills that write and render Reels, carousels, captions, bios, and comment replies, plus how to wire them into GrowthOS for full auto-publishing.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/5-claude-skills-social-media-content-team/"
+    },
+    {
       title: "The Master Skills Setup Guide",
       desc: "Install the four Claude master skills (Edit, Virality, Build, Publish) and run your first cut, script and post.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
