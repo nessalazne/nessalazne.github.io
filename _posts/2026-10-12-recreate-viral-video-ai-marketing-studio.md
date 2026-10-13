@@ -78,7 +78,7 @@ Writing the prompt cost $0.14 on this run, using Claude Sonnet 5 through OpenRou
 
 ## What Does It Cost to Recreate a Video?
 
-The text steps cost cents, and the video render is the larger cost. On my run the analysis was $0.021 and the prompt was $0.14. An optional opening image, which becomes the first frame, costs about $0.04 with Nano Banana 2. Kie.ai bills the video itself, and the app tells you to check Kie pricing before you generate. Marketing Studio runs on your own keys for OpenRouter, Gemini, Apify and Kie.ai, which you add in Settings. All prices are as of October 2026.
+The text steps cost cents, and the video render is the larger cost. On my run the analysis was $0.021 and the prompt was $0.14. An optional opening image, which becomes the first frame, costs about $0.04 with Nano Banana 2. Kie.ai bills the video itself, and the app tells you to check Kie pricing before you generate. Marketing Studio runs on your own keys for OpenRouter, Gemini, Apify and Kie.ai, which you add in Settings. You can try GrowthOS free for 7 days before you pay anything, and [the trial starts here](https://app.digicuratoragency.com/admin/signup?plan=studio). All prices are as of October 2026.
 
 ## FAQ
 
@@ -104,7 +104,11 @@ No. Marketing Studio is a web app. You upload a photo, paste a link and click bu
 
 ## Where Should You Start?
 
-Pick a short reference video in your niche, add one clear photo of yourself in Assets, and run it through Studio. If you want a prompt to copy first, [grab the free guide](https://hub.digicuratoragency.com/freebie?kw=studio). To recreate a viral video with AI every week, you also need the rest of the system, and [Get GrowthOS →](https://builds.digicuratoragency.com/growth-os/) is where that lives.
+Pick a short reference video in your niche, add one clear photo of yourself in Assets, and run it through Studio. If you want a prompt to copy first, [grab the free guide](https://hub.digicuratoragency.com/freebie?kw=studio).
+
+**Try GrowthOS Marketing Studio free for 7 days.** [Start your free trial →](https://app.digicuratoragency.com/admin/signup?plan=studio) A card or PayPal account is needed to start the trial.
+
+To recreate a viral video with AI every week, you also need the rest of the system, and [Get GrowthOS →](https://builds.digicuratoragency.com/growth-os/) is where that lives.
 
 <script type="application/ld+json">
 {
