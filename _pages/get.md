@@ -908,6 +908,12 @@ var GUIDES = {
   ],
   "studio": [
     {
+      title: "Recreate a Viral Video With AI",
+      desc: "The exact prompt behind my Marketing Studio clip, a fill-in version for your own look, and the steps to run it in GrowthOS.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=studio",
+      post: "https://blog.digicuratoragency.com/recreate-viral-video-ai-marketing-studio/"
+    },
+    {
       title: "The Malleable Software Playbook",
       desc: "A step-by-step playbook for auditing your current software stack and building flexible AI business systems you own — with Claude Code prompts included.",
       url: "https://guides.digicuratoragency.com/guides/malleable-software-ai-business",
