@@ -674,6 +674,12 @@ var GUIDES = {
   ],
   "edit": [
     {
+      title: "The Storyboard Edit",
+      desc: "A step by step walkthrough of how I get Claude Code to edit a video from one sentence, storyboard included.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=edit",
+      post: "https://blog.digicuratoragency.com/claude-code-video-editing-one-sentence/"
+    },
+    {
       title: "Claude Design → Video Cheat Sheet",
       desc: "Turn Claude-generated designs into polished short-form video with the Hyperframes workflow.",
       url: "https://guides.digicuratoragency.com/guides/claude-design-hyperframes",
