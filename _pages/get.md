@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "outreach": [
+    {
+      title: "The Harvey Outreach Setup",
+      desc: "How to install the open-source Harvey sales agent, train it on your own offer, and run a safe first cold email batch on your Claude Code subscription.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=outreach",
+      post: "https://blog.digicuratoragency.com/harvey-open-source-sales-agent-claude-code/"
+    }
+  ],
   "gpt": [
     {
       title: "The ChatGPT Book Commands Playbook",
