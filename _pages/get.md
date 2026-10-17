@@ -734,6 +734,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Claude Behavior Guide",
+      desc: "The full CLAUDE.md file with 215K+ GitHub stars, plus the exact steps to drop it into your project and make Claude follow it.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/claude-behavior-file-fixes-coding-habits/"
+    },
+    {
       title: "5 Free Claude Skills Content Team Install Guide",
       desc: "The exact 5 free Claude Skills that write and render Reels, carousels, captions, bios, and comment replies, plus how to wire them into GrowthOS for full auto-publishing.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
