@@ -734,6 +734,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The 5 Claude Video Styles Breakdown",
+      desc: "What HyperFrames, Onetake, Collage B-roll, Claude Animation Base, and Lemo Opuscar each need as input and how to install them.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/5-claude-skills-ai-video-styles/"
+    },
+    {
       title: "The Claude Behavior Guide",
       desc: "The full CLAUDE.md file with 215K+ GitHub stars, plus the exact steps to drop it into your project and make Claude follow it.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
