@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "decode": [
+    {
+      title: "The REA Setup Playbook",
+      desc: "The full install, the exact commands, and the fix table for Reverse Engineer Anything, the open-source MCP server that lets your AI agent study any app feature and rebuild it.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=decode",
+      post: "https://blog.digicuratoragency.com/reverse-engineer-anything-ai-agent-tool/"
+    }
+  ],
   "outreach": [
     {
       title: "The Harvey Outreach Setup",
