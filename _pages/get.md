@@ -690,6 +690,12 @@ var GUIDES = {
   ],
   "edit": [
     {
+      title: "The Claude Video Editing Stack",
+      desc: "The five tools that let Claude Code edit your videos, and the skill file that ties them together.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=edit",
+      post: "https://blog.digicuratoragency.com/claude-video-editing-stack/"
+    },
+    {
       title: "The Storyboard Edit",
       desc: "A step by step walkthrough of how I get Claude Code to edit a video from one sentence, storyboard included.",
       url: "https://hub.digicuratoragency.com/freebie?kw=edit",
