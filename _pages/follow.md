@@ -49,7 +49,8 @@ permalink: /follow/
   </div>
 
   <p class="follow-footnote">
-    Or grab a free guide <a href="{{ site.baseurl }}/get/">over here &rarr;</a>
+    Join my free community <a href="https://hub.digicuratoragency.com/login" target="_blank" rel="noopener">here &rarr;</a>
+    <span class="follow-footnote-sub">AI Social Hub is home base for Vibe Coding Mastery builders. Ship real products with AI, alongside a community that builds every week.</span>
   </p>
 
 </div>
@@ -186,6 +187,15 @@ permalink: /follow/
 .follow-footnote a {
   color: #00ab6b;
   font-weight: 600;
+}
+.follow-footnote-sub {
+  display: block;
+  margin: 0.4rem auto 0;
+  max-width: 30rem;
+  font-size: 0.85rem;
+  color: #999;
+  line-height: 1.5;
+  text-wrap: balance;
 }
 @media (max-width: 480px) {
   .follow-card { padding: 0.8rem 0.85rem; gap: 0.8rem; }
