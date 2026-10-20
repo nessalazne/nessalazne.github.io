@@ -954,6 +954,12 @@ var GUIDES = {
   ],
   "studio": [
     {
+      title: "The One-Prompt Video Studio Playbook",
+      desc: "The prompts, approval gates and budget caps I use to run Open Montage from Claude Code, from first prompt to finished video.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=studio",
+      post: "https://blog.digicuratoragency.com/open-montage-ai-production-team-one-prompt/"
+    },
+    {
       title: "Recreate a Viral Video With AI",
       desc: "The exact prompt behind my Marketing Studio clip, a fill-in version for your own look, and the steps to run it in GrowthOS.",
       url: "https://hub.digicuratoragency.com/freebie?kw=studio",
