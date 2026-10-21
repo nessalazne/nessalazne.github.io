@@ -246,6 +246,12 @@ var GUIDES = {
   ],
   "agents": [
     {
+      title: "The 100 Sub-Agent Setup for Claude Code",
+      desc: "Fan one task across a hundred Claude sub-agents, score every result, and stop re-prompting.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=agents",
+      post: "https://blog.digicuratoragency.com/claude-100-sub-agents-parallel-setup/"
+    },
+    {
       title: "The AI Agent Breakdown: LLM Brain vs. Harness System",
       desc: "A real walkthrough of the two parts inside every AI agent and how to read your own setup like an engineer.",
       url: "https://hub.digicuratoragency.com/freebie?kw=agents",
