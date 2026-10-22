@@ -882,6 +882,12 @@ var GUIDES = {
   ],
   "clone": [
     {
+      title: "The Replica Skill Setup Guide",
+      desc: "How to install Claude's free 11-skill Replica system and clone any app, from reverse engineering to a sellable rebuild.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=clone",
+      post: "https://blog.digicuratoragency.com/clone-any-app-claude-replica-skill/"
+    },
+    {
       title: "The Website Cloning Playbook",
       desc: "Clone any page with Claude + Ditto MCP, then make it yours in 4 steps",
       url: "https://hub.digicuratoragency.com/freebie?kw=clone",
