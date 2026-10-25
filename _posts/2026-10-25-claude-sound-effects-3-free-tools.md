@@ -132,7 +132,7 @@ Yes, with one change. real-sfx is distributed as a Claude Code skill folder, so 
 
 Sound is the last thing people add to an AI edit and the first thing an audience notices. Fixing it costs nothing here: a public API with no key, a skill folder you copy once, and a CPU-only toolkit. Build the library, index it, and the next render comes back with the sound already on it.
 
-If you want the rest of the system that this sits inside, from the render to the caption to the post, that is what I teach in the build. **[Join the Vibe Coding Build →](https://hub.digicuratoragency.com/about)**
+If you want the whole video made for you, from the render to the caption to the post, paste any link or idea into Content Engine and get a published video in under 3 minutes, with DM automation armed to capture leads. **[Meet Content Engine →](https://builds.digicuratoragency.com/content-engine/)**
 
 <script type="application/ld+json">
 {
