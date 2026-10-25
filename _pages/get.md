@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "sfx": [
+    {
+      title: "The Claude Sound Effects Stack",
+      desc: "The three free tools that put real sound effects on a Claude edit, with the install commands and the prompts I run on a finished render.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=sfx",
+      post: "https://blog.digicuratoragency.com/claude-sound-effects-3-free-tools/"
+    }
+  ],
   "decode": [
     {
       title: "The REA Setup Playbook",
