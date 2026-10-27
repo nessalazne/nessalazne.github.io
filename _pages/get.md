@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "editor": [
+    {
+      title: "Claude Code Video Editing Setup",
+      desc: "The folder, the tool install and the brand sheet that let Claude Code edit in your style, with every prompt to copy.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=editor",
+      post: "https://blog.digicuratoragency.com/claude-code-video-editing-setup/"
+    }
+  ],
   "team": [
     {
       title: "The AI Team Setup Guide",
