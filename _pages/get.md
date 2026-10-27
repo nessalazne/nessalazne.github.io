@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "team": [
+    {
+      title: "The AI Team Setup Guide",
+      desc: "How to build an idea-scouting agent and a brand email agent that hand work to each other, with the prompts to copy.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=team",
+      post: "https://blog.digicuratoragency.com/ai-agents-never-create-alone/"
+    }
+  ],
   "sfx": [
     {
       title: "The Claude Sound Effects Stack",
