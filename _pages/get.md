@@ -778,6 +778,12 @@ var GUIDES = {
   ],
   "claude": [
     {
+      title: "The Claude Master Session Setup",
+      desc: "Pin one chat, put it in charge of your other sessions, and get back a list of what is actually waiting on you.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=claude",
+      post: "https://blog.digicuratoragency.com/claude-master-session-nested-sessions/"
+    },
+    {
       title: "The 5 Claude Video Styles Breakdown",
       desc: "What HyperFrames, Onetake, Collage B-roll, Claude Animation Base, and Lemo Opuscar each need as input and how to install them.",
       url: "https://hub.digicuratoragency.com/freebie?kw=claude",
