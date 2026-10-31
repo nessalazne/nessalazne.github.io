@@ -6,7 +6,7 @@ author: ness
 categories: [Claude Code, AI Automation]
 tags: [brand clarity prompt, ai brand voice, content pillars, claude code, brand profile]
 image: assets/images/brand-clarity-prompt-fix-generic-ai-writing-header.jpg
-featured: true
+featured: false
 ---
 
 Generic AI writing is not a prompting problem. It is a missing-context problem: the tool hands everyone the same voice because it has no idea who you are. A brand clarity prompt fixes that by turning six honest answers about your business into a structured brand profile — positioning, tagline, archetype, a real tone-of-voice guide, five content pillars with twenty-five topics, and your actual hex codes — that every AI tool you touch can read before it writes a single word.
