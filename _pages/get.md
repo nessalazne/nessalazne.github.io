@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "reels": [
+    {
+      title: "Animated Reels with Claude",
+      desc: "How to get Claude to write a full animated reel in code from one idea, with the prompt, the setup steps and the fixes for when a render goes wrong.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=reels",
+      post: "https://blog.digicuratoragency.com/claude-skill-unlimited-animated-reels/"
+    }
+  ],
   "editor": [
     {
       title: "Claude Code Video Editing Setup",
