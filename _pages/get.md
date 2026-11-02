@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "animate": [
+    {
+      title: "Animated Explainer Videos in Claude Code",
+      desc: "Install the 66-style film skill, run your first film, and build a style around your own brand.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=animate",
+      post: "https://blog.digicuratoragency.com/animated-explainer-videos-free-claude-code/"
+    }
+  ],
   "reels": [
     {
       title: "Animated Reels with Claude",
