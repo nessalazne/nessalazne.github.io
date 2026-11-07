@@ -473,6 +473,12 @@ var GUIDES = {
   ],
   "stack": [
     {
+      title: "The Open Source Swap Stack",
+      desc: "Four free GitHub projects that replace Higgsfield, ElevenLabs, Semrush and Notion, with the install commands and the setup prompts.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=stack",
+      post: "https://blog.digicuratoragency.com/free-github-alternatives-paid-apps/"
+    },
+    {
       title: "The G-Stack Playbook",
       desc: "Set Up a 23-Tool Claude Code Ops Team Like Garry Tan's",
       url: "https://hub.digicuratoragency.com/freebie?kw=stack",
