@@ -15,7 +15,7 @@ GitHub has a free, open source version of most paid creative software, and four 
 
 ## Get the Free Guide
 
-The free guide has all four repo URLs, the install commands for every operating system, which API key each tool needs and where to put it, and the Claude Code prompts I use to set them up without reading a single README.
+The free guide has all four repo URLs, the install commands for every operating system, which API key each tool needs and where to put it, and the Claude Code prompts I use to set them up without reading a single README. It also includes five bonus repos that are not in the video: OpenWhispr for voice dictation, OpenProject for project management, Cal.diy for scheduling, Chatwoot for customer support and Cap for screen recording.
 
 **[Get the free Open Source Swap Stack guide →](https://hub.digicuratoragency.com/freebie?kw=stack)**
 
