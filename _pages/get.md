@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "repo": [
+    {
+      title: "25 Video Effect Templates: Build Your Own Library With Claude Code",
+      desc: "A walkthrough for turning any reel effect you spot into reusable code you can drop into your next video, the way I built mine.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=repo",
+      post: "https://blog.digicuratoragency.com/claude-video-effect-templates/"
+    }
+  ],
   "animate": [
     {
       title: "Animated Explainer Videos in Claude Code",
