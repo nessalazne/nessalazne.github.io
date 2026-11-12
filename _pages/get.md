@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "taste": [
+    {
+      title: "Claude Video Editing Prompt Pack",
+      desc: "The three prompts that turn a folder on your laptop into a video editor Claude Code can run.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=taste",
+      post: "https://blog.digicuratoragency.com/claude-code-video-editing-three-prompts/"
+    }
+  ],
   "repo": [
     {
       title: "25 Video Effect Templates: Build Your Own Library With Claude Code",
