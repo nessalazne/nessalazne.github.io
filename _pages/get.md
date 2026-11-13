@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "navigate": [
+    {
+      title: "Agent Browser Setup Guide",
+      desc: "Install Vercel's Agent Browser and wire it into Claude Code or Codex so your agent drives a real browser with element refs instead of screenshots.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=navigate",
+      post: "https://blog.digicuratoragency.com/vercel-agent-browser-coding-agent-control-browser/"
+    }
+  ],
   "taste": [
     {
       title: "Claude Video Editing Prompt Pack",
