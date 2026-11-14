@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "frontend": [
+    {
+      title: "The Frontend Design Skills Pack",
+      desc: "The five Claude Code skills I use to take AI slop out of a front end, with every install command and the prompts I run them with.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=frontend",
+      post: "https://blog.digicuratoragency.com/5-claude-code-frontend-design-skills/"
+    }
+  ],
   "styles": [
     {
       title: "The 10 AI Art Styles Prompt Set",
