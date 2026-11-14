@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "styles": [
+    {
+      title: "The 10 AI Art Styles Prompt Set",
+      desc: "Ten copy-paste style prompts that turn one scene into ten different looking reels, plus the walkthrough for animating them to your own voice.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=styles",
+      post: "https://blog.digicuratoragency.com/10-ai-art-styles-one-prompt-set-claude/"
+    }
+  ],
   "navigate": [
     {
       title: "Agent Browser Setup Guide",
