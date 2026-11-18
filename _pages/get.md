@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "recast": [
+    {
+      title: "Reel Breakdown Skill Guide",
+      desc: "Install the free recast skill and turn any viral reel into a reusable style prompt, all on your own machine.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=recast",
+      post: "https://blog.digicuratoragency.com/remake-any-viral-reel-claude-skill/"
+    }
+  ],
   "frontend": [
     {
       title: "The Frontend Design Skills Pack",
