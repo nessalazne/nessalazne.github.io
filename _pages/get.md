@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "breakdown": [
+    {
+      title: "Reel Breakdown Playbook",
+      desc: "Turn any viral reel into frames, cut times and a scene map you can rebuild on, all on your own machine.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=breakdown",
+      post: "https://blog.digicuratoragency.com/copy-a-viral-reel-structure-first/"
+    }
+  ],
   "recast": [
     {
       title: "Reel Breakdown Skill Guide",
