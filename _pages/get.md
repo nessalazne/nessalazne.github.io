@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "vault": [
+    {
+      title: "The AI Video Repo Vault",
+      desc: "Five free GitHub repos that turn Claude Code into a motion designer, with the install steps and the prompts I run.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=vault",
+      post: "https://blog.digicuratoragency.com/free-github-repos-fix-ai-video-slop/"
+    }
+  ],
   "breakdown": [
     {
       title: "Reel Breakdown Playbook",
