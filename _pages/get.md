@@ -767,6 +767,12 @@ var GUIDES = {
   ],
   "fable": [
     {
+      title: "The Same-Prompt Model Test Kit",
+      desc: "The brief template, the six-point scoring sheet and the setup for running one video prompt through two Claude models.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=fable",
+      post: "https://blog.digicuratoragency.com/claude-fable-5-2-vs-opus-5-5-video/"
+    },
+    {
       title: "The Claude Fable 5.1 System Prompt Study Guide",
       desc: "Clone the leaked 8,000-line Anthropic prompt, read it in Claude Code without blowing your context, and pull out the tool rules for your own skills.",
       url: "https://hub.digicuratoragency.com/freebie?kw=fable",
