@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "remake": [
+    {
+      title: "Reverse Engineer Any Video Guide",
+      desc: "How to break any video down shot by shot with rea-video, plan the remake, and fix the errors you will hit on the way.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=remake",
+      post: "https://blog.digicuratoragency.com/reverse-engineer-any-video-rea-video/"
+    }
+  ],
   "vault": [
     {
       title: "The AI Video Repo Vault",
