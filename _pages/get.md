@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "replace": [
+    {
+      title: "The Claude Replacement Check",
+      desc: "The plan, limits and test prompts for Claude Meetings, Whiteboards, Sheets and Data, so you know what to cancel before your next renewal.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=replace",
+      post: "https://blog.digicuratoragency.com/claude-meetings-whiteboards-sheets-data/"
+    }
+  ],
   "autopilot": [
     {
       title: "The Content Engine Autopilot Guide",
