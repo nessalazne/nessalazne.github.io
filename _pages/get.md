@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "autopilot": [
+    {
+      title: "The Content Engine Autopilot Guide",
+      desc: "How Content Engine turns one video, reel, article or idea into a posted short, and what to prepare before your first run.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=autopilot",
+      post: "https://blog.digicuratoragency.com/content-engine-chrome-extension-claude-autopilot/"
+    }
+  ],
   "remake": [
     {
       title: "Reverse Engineer Any Video Guide",
