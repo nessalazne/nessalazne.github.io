@@ -174,6 +174,14 @@ permalink: /get/
 
 <script>
 var GUIDES = {
+  "rerun": [
+    {
+      title: "The Trial Reel Rerun Guide",
+      desc: "How I pick the reels worth rerunning, make new versions of them and post them as Instagram trial reels to people who don't follow me.",
+      url: "https://hub.digicuratoragency.com/freebie?kw=rerun",
+      post: "https://blog.digicuratoragency.com/instagram-trial-reels-rerun-best-reels/"
+    }
+  ],
   "replace": [
     {
       title: "The Claude Replacement Check",
